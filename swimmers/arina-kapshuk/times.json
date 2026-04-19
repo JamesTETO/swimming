@@ -1,0 +1,273 @@
+{
+  "swimmer": {
+    "snc": "131013006",
+    "last": "Kapshuk",
+    "first": "Arina",
+    "sex": "F",
+    "dob": "09292015",
+    "meets": [
+      358,
+      1493,
+      1591,
+      1592,
+      1593,
+      1622,
+      1807,
+      2116,
+      2408,
+      2430
+    ]
+  },
+  "results": [
+    {
+      "rems": 358,
+      "meet": "2025 BAD Outdoor LC Invitational",
+      "meet_start": "06202025",
+      "date": "06202025",
+      "distance": 100,
+      "stroke": "B",
+      "time": "118.94",
+      "course": "L"
+    },
+    {
+      "rems": 358,
+      "meet": "2025 BAD Outdoor LC Invitational",
+      "meet_start": "06202025",
+      "date": "06202025",
+      "distance": 100,
+      "stroke": "C",
+      "time": "121.30",
+      "course": "L"
+    },
+    {
+      "rems": 358,
+      "meet": "2025 BAD Outdoor LC Invitational",
+      "meet_start": "06202025",
+      "date": "06212025",
+      "distance": 100,
+      "stroke": "A",
+      "time": "93.56",
+      "course": "L"
+    },
+    {
+      "rems": 358,
+      "meet": "2025 BAD Outdoor LC Invitational",
+      "meet_start": "06202025",
+      "date": "06212025",
+      "distance": 50,
+      "stroke": "C",
+      "time": "56.74",
+      "course": "L"
+    },
+    {
+      "rems": 358,
+      "meet": "2025 BAD Outdoor LC Invitational",
+      "meet_start": "06202025",
+      "date": "06222025",
+      "distance": 50,
+      "stroke": "A",
+      "time": "43.98",
+      "course": "L"
+    },
+    {
+      "rems": 358,
+      "meet": "2025 BAD Outdoor LC Invitational",
+      "meet_start": "06202025",
+      "date": "06222025",
+      "distance": 50,
+      "stroke": "B",
+      "time": "55.38",
+      "course": "L"
+    },
+    {
+      "rems": 2116,
+      "meet": "GHAC In-House Time Trial 2025-11-01",
+      "meet_start": "11012025",
+      "date": "11012025",
+      "distance": 400,
+      "stroke": "A",
+      "time": "437.99",
+      "course": "S"
+    },
+    {
+      "rems": 1493,
+      "meet": "BAC Short Course Fall Invitational",
+      "meet_start": "11072025",
+      "date": "11092025",
+      "distance": 50,
+      "stroke": "A",
+      "time": "39.87",
+      "course": "S"
+    },
+    {
+      "rems": 1493,
+      "meet": "BAC Short Course Fall Invitational",
+      "meet_start": "11072025",
+      "date": "11092025",
+      "distance": 100,
+      "stroke": "C",
+      "time": "111.69",
+      "course": "S"
+    },
+    {
+      "rems": 1591,
+      "meet": "GHAC Super Fun Development Meet #1",
+      "meet_start": "12132025",
+      "date": "12132025",
+      "distance": 50,
+      "stroke": "A",
+      "time": "39.35",
+      "course": "S"
+    },
+    {
+      "rems": 1591,
+      "meet": "GHAC Super Fun Development Meet #1",
+      "meet_start": "12132025",
+      "date": "12132025",
+      "distance": 100,
+      "stroke": "C",
+      "time": "109.41",
+      "course": "S"
+    },
+    {
+      "rems": 1591,
+      "meet": "GHAC Super Fun Development Meet #1",
+      "meet_start": "12132025",
+      "date": "12132025",
+      "distance": 100,
+      "stroke": "E",
+      "time": "103.07",
+      "course": "S"
+    },
+    {
+      "rems": 2408,
+      "meet": "GHAC In-House Time Trial Group 2 2025-01-17",
+      "meet_start": "01172026",
+      "date": "01172026",
+      "distance": 400,
+      "stroke": "A",
+      "time": "415.98",
+      "course": "S"
+    },
+    {
+      "rems": 2408,
+      "meet": "GHAC In-House Time Trial Group 2 2025-01-17",
+      "meet_start": "01172026",
+      "date": "01172026",
+      "distance": 800,
+      "stroke": "A",
+      "time": "847.69",
+      "course": "S"
+    },
+    {
+      "rems": 2408,
+      "meet": "GHAC In-House Time Trial Group 2 2025-01-17",
+      "meet_start": "01172026",
+      "date": "01172026",
+      "distance": 1500,
+      "stroke": "A",
+      "time": "1592.22",
+      "course": "S"
+    },
+    {
+      "rems": 2430,
+      "meet": "GHAC SC Last Chance Qualifier 2026",
+      "meet_start": "01302026",
+      "date": "01302026",
+      "distance": 200,
+      "stroke": "A",
+      "time": "186.84",
+      "course": "S"
+    },
+    {
+      "rems": 1622,
+      "meet": "2026 Western Region SC Championships",
+      "meet_start": "02122026",
+      "date": "02132026",
+      "distance": 200,
+      "stroke": "A",
+      "time": "181.06",
+      "course": "S"
+    },
+    {
+      "rems": 1622,
+      "meet": "2026 Western Region SC Championships",
+      "meet_start": "02122026",
+      "date": "02132026",
+      "distance": 50,
+      "stroke": "B",
+      "time": "47.62",
+      "course": "S"
+    },
+    {
+      "rems": 1622,
+      "meet": "2026 Western Region SC Championships",
+      "meet_start": "02122026",
+      "date": "02132026",
+      "distance": 100,
+      "stroke": "C",
+      "time": "106.95",
+      "course": "S"
+    },
+    {
+      "rems": 1592,
+      "meet": "GHAC Winter Invitational 2026",
+      "meet_start": "03062026",
+      "date": "03072026",
+      "distance": 50,
+      "stroke": "A",
+      "time": "37.89",
+      "course": "S"
+    },
+    {
+      "rems": 1592,
+      "meet": "GHAC Winter Invitational 2026",
+      "meet_start": "03062026",
+      "date": "03072026",
+      "distance": 50,
+      "stroke": "C",
+      "time": "46.97",
+      "course": "S"
+    },
+    {
+      "rems": 1592,
+      "meet": "GHAC Winter Invitational 2026",
+      "meet_start": "03062026",
+      "date": "03072026",
+      "distance": 200,
+      "stroke": "E",
+      "time": "204.10",
+      "course": "S"
+    },
+    {
+      "rems": 1593,
+      "meet": "GHAC Spring Invitational 2026",
+      "meet_start": "04102026",
+      "date": "04112026",
+      "distance": 100,
+      "stroke": "A",
+      "time": "83.57",
+      "course": "L"
+    },
+    {
+      "rems": 1593,
+      "meet": "GHAC Spring Invitational 2026",
+      "meet_start": "04102026",
+      "date": "04112026",
+      "distance": 200,
+      "stroke": "C",
+      "time": "233.64",
+      "course": "L"
+    },
+    {
+      "rems": 1593,
+      "meet": "GHAC Spring Invitational 2026",
+      "meet_start": "04102026",
+      "date": "04112026",
+      "distance": 50,
+      "stroke": "D",
+      "time": "49.17",
+      "course": "L"
+    }
+  ]
+}
