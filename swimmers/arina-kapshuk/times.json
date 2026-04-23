@@ -13,6 +13,7 @@
       1593,
       1622,
       1807,
+      1922,
       2116,
       2408,
       2430
@@ -267,6 +268,56 @@
       "distance": 50,
       "stroke": "D",
       "time": "49.17",
+      "course": "L"
+    },
+    {
+      "rems": 1922,
+      "meet": "Lou Pocock Invitational 2026",
+      "meet_start": "04172026",
+      "date": "04172026",
+      "distance": 100,
+      "stroke": "A",
+      "time": "82.47",
+      "course": "L"
+    },
+    {
+      "rems": 1922,
+      "meet": "Lou Pocock Invitational 2026",
+      "meet_start": "04172026",
+      "date": "04172026",
+      "distance": 50,
+      "stroke": "B",
+      "time": "46.10",
+      "course": "L"
+    },
+    {
+      "rems": 1922,
+      "meet": "Lou Pocock Invitational 2026",
+      "meet_start": "04172026",
+      "date": "04172026",
+      "distance": 100,
+      "stroke": "C",
+      "time": "109.42",
+      "course": "L"
+    },
+    {
+      "rems": 1922,
+      "meet": "Lou Pocock Invitational 2026",
+      "meet_start": "04172026",
+      "date": "04182026",
+      "distance": 200,
+      "stroke": "A",
+      "time": "181.18",
+      "course": "L"
+    },
+    {
+      "rems": 1922,
+      "meet": "Lou Pocock Invitational 2026",
+      "meet_start": "04172026",
+      "date": "04182026",
+      "distance": 200,
+      "stroke": "C",
+      "time": "231.43",
       "course": "L"
     }
   ]

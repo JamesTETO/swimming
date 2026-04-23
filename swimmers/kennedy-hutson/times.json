@@ -13,6 +13,7 @@
       1622,
       1807,
       1921,
+      1922,
       2430
     ]
   },
@@ -465,6 +466,66 @@
       "distance": 50,
       "stroke": "D",
       "time": "41.31",
+      "course": "L"
+    },
+    {
+      "rems": 1922,
+      "meet": "Lou Pocock Invitational 2026",
+      "meet_start": "04172026",
+      "date": "04172026",
+      "distance": 100,
+      "stroke": "A",
+      "time": "84.21",
+      "course": "L"
+    },
+    {
+      "rems": 1922,
+      "meet": "Lou Pocock Invitational 2026",
+      "meet_start": "04172026",
+      "date": "04172026",
+      "distance": 50,
+      "stroke": "B",
+      "time": "41.60",
+      "course": "L"
+    },
+    {
+      "rems": 1922,
+      "meet": "Lou Pocock Invitational 2026",
+      "meet_start": "04172026",
+      "date": "04172026",
+      "distance": 100,
+      "stroke": "C",
+      "time": "108.04",
+      "course": "L"
+    },
+    {
+      "rems": 1922,
+      "meet": "Lou Pocock Invitational 2026",
+      "meet_start": "04172026",
+      "date": "04182026",
+      "distance": 200,
+      "stroke": "A",
+      "time": "180.13",
+      "course": "L"
+    },
+    {
+      "rems": 1922,
+      "meet": "Lou Pocock Invitational 2026",
+      "meet_start": "04172026",
+      "date": "04182026",
+      "distance": 100,
+      "stroke": "B",
+      "time": "90.36",
+      "course": "L"
+    },
+    {
+      "rems": 1922,
+      "meet": "Lou Pocock Invitational 2026",
+      "meet_start": "04172026",
+      "date": "04182026",
+      "distance": 50,
+      "stroke": "D",
+      "time": "38.66",
       "course": "L"
     }
   ]
