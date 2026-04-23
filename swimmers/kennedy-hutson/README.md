@@ -4,7 +4,7 @@
 - **DOB:** 2015-11-08
 - **Sex:** F
 - **Swims on record:** 51 across 9 meets
-- **Last refresh:** 2026-04-23 14:57 UTC
+- **Last refresh:** 2026-04-23 15:27 UTC
 
 ## Highlights since the last update
 <!-- HIGHLIGHTS:START — Claude-maintained, preserved across refreshes -->
@@ -122,26 +122,26 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 | Event | Course | PB | Age at PB | Regional (WOSA) | Provincial (OAG) |
 |---|---|---|---|---|---|
 | **— QUALIFIED —** ||||||
-| 50 Free | LCM | **36.23** | age 10 | ✅ 38.80 | ❌ 32.81 |
-| 50 Back | LCM | **41.60** | age 10 | ✅ 45.86 | ❌ 38.85 |
-| 50 Breast | LCM | **51.79** | age 10 | ✅ 51.84 | ❌ 43.91 |
-| 50 Fly | LCM | **38.66** | age 10 | ✅ 43.03 | ❌ 36.45 |
-| 100 Free | LCM | **1:23.01** | age 10 | ✅ 1:25.41 | ❌ 1:12.23 |
-| 100 Back | LCM | **1:30.36** | age 10 | ✅ 1:37.61 | ❌ 1:22.69 |
-| 100 Breast | LCM | **1:48.04** | age 10 | ✅ 1:52.16 | ❌ 1:35.01 |
-| 200 Free | LCM | **3:00.13** | age 10 | ✅ 3:04.90 | ❌ 2:36.36 |
-| 50 Free | SCM | **36.40** | age 10 | ✅ 37.97 | ❌ 32.16 |
-| 50 Back | SCM | **41.22** | age 10 | ✅ 44.96 | ❌ 38.09 |
-| 50 Breast | SCM | **48.85** | age 10 | ✅ 50.82 | ❌ 43.11 |
-| 50 Fly | SCM | **42.10** | age 10 | ✅ 42.18 | ❌ 35.74 |
-| 100 Back | SCM | **1:30.09** | age 10 | ✅ 1:35.70 | ❌ 1:21.07 |
-| 100 Breast | SCM | **1:45.69** | age 10 | ✅ 1:49.95 | ❌ 1:33.14 |
-| 200 Free | SCM | **2:59.79** | age 10 | ✅ 3:00.97 | ❌ 2:33.30 |
-| 200 Back | SCM | **3:15.65** | age 10 | ✅ 3:24.99 | ❌ 2:53.65 |
-| 200 Breast | SCM | **3:42.91** | age 10 | ✅ 3:54.87 | ❌ 3:18.83 |
-| 200 IM | SCM | **3:19.84** | age 10 | ✅ 3:25.94 | ❌ 2:55.23 |
+| 50 Free | LCM | **36.23** | age 10 | ✅ 38.80 (+2.57s) | ❌ 32.81 (−3.42s) |
+| 50 Back | LCM | **41.60** | age 10 | ✅ 45.86 (+4.26s) | ❌ 38.85 (−2.75s) |
+| 50 Breast | LCM | **51.79** | age 10 | ✅ 51.84 (+0.05s) | ❌ 43.91 (−7.88s) |
+| 50 Fly | LCM | **38.66** | age 10 | ✅ 43.03 (+4.37s) | ❌ 36.45 (−2.21s) |
+| 100 Free | LCM | **1:23.01** | age 10 | ✅ 1:25.41 (+2.40s) | ❌ 1:12.23 (−10.78s) |
+| 100 Back | LCM | **1:30.36** | age 10 | ✅ 1:37.61 (+7.25s) | ❌ 1:22.69 (−7.67s) |
+| 100 Breast | LCM | **1:48.04** | age 10 | ✅ 1:52.16 (+4.12s) | ❌ 1:35.01 (−13.03s) |
+| 200 Free | LCM | **3:00.13** | age 10 | ✅ 3:04.90 (+4.77s) | ❌ 2:36.36 (−23.77s) |
+| 50 Free | SCM | **36.40** | age 10 | ✅ 37.97 (+1.57s) | ❌ 32.16 (−4.24s) |
+| 50 Back | SCM | **41.22** | age 10 | ✅ 44.96 (+3.74s) | ❌ 38.09 (−3.13s) |
+| 50 Breast | SCM | **48.85** | age 10 | ✅ 50.82 (+1.97s) | ❌ 43.11 (−5.74s) |
+| 50 Fly | SCM | **42.10** | age 10 | ✅ 42.18 (+0.08s) | ❌ 35.74 (−6.36s) |
+| 100 Back | SCM | **1:30.09** | age 10 | ✅ 1:35.70 (+5.61s) | ❌ 1:21.07 (−9.02s) |
+| 100 Breast | SCM | **1:45.69** | age 10 | ✅ 1:49.95 (+4.26s) | ❌ 1:33.14 (−12.55s) |
+| 200 Free | SCM | **2:59.79** | age 10 | ✅ 3:00.97 (+1.18s) | ❌ 2:33.30 (−26.49s) |
+| 200 Back | SCM | **3:15.65** | age 10 | ✅ 3:24.99 (+9.34s) | ❌ 2:53.65 (−22.00s) |
+| 200 Breast | SCM | **3:42.91** | age 10 | ✅ 3:54.87 (+11.96s) | ❌ 3:18.83 (−24.08s) |
+| 200 IM | SCM | **3:19.84** | age 10 | ✅ 3:25.94 (+6.10s) | ❌ 2:55.23 (−24.61s) |
 | **— NOT YET QUALIFIED —** ||||||
-| 100 Free | SCM | **1:24.21** | age 10 | ❌ 1:23.60 | ❌ 1:10.82 |
+| 100 Free | SCM | **1:24.21** | age 10 | ❌ 1:23.60 (−0.61s) | ❌ 1:10.82 (−13.39s) |
 
 ## All swims
 
@@ -215,55 +215,58 @@ _Updated 2026-04-23 with Lou Pocock results (Apr 17–18). 6 new LCM swims; PBs 
 | Event | Pocock | Prior PB (date) | Δ |
 |---|---|---|---|
 | **50 Back** | 41.60 | 42.82 (Apr 11) | **−1.22** PB |
-| **50 Fly** | 38.66 | 41.31 (Apr 11) | **−2.65** PB (broke 40 at age 10) |
-| **100 Back** | 1:30.36 | 1:31.24 (Apr 10) | **−0.88** PB (broke 1:31) |
-| **100 Breast** | 1:48.04 | 2:12.60 (Jun 2025) | **−24.56** PB (huge, prior was stale) |
-| **200 Free** | 3:00.13 | — | first (just missed sub-3:00) |
-| 100 Free | 1:24.21 | 1:23.01 (Apr 11) | +1.20 |
+| **50 Fly** | 38.66 | 41.31 (Apr 11) | **−2.65** PB — broke 40 at age 10 |
+| **100 Back** | 1:30.36 | 1:31.24 (Apr 10) | **−0.88** PB — broke 1:31 |
+| **100 Breast** | 1:48.04 | 2:12.60 (Jun 2025) | **−24.56** PB — prior was 10 months stale |
+| **200 Free** | 3:00.13 | — | first — just missed sub-3:00 |
+| 100 Free | 1:24.21 | 1:23.01 (Apr 11) | +1.20 only regression |
 
 ### What the data says she's good at
 
 | Event | Evidence |
 |---|---|
-| **100 Back** | −22.7s on LC in 10 months (1:52.10 → 1:30.36); now the fastest Back in the GHAC cohort |
-| **50 Fly** | Broke 40 on LCM at age 10 — previously the weakest stroke, now dropping fast |
-| **100 Breast** | −24.56s improvement since Jun 2025 (though prior was a novice swim) |
-| **Sprint 50 Back** | 41.60 LC / 41.22 SC — near-identical, consistent across courses |
-| **Racing density** | 9 meets, 51 swims in 10 months across all 4 strokes + IM |
+| **100 Back LCM** | 1:52.10 → 1:31.24 → 1:30.36 — dropped 21.7s over 10 months; fastest 100 Back in the GHAC 10&U group |
+| **Stroke breadth** | 9 meets, 51 swims across all 4 strokes + IM in both SCM and LCM |
+| **100 Breast** | −24.56s on LCM since Jun 2025; SCM 1:45.69 sets a clear baseline |
+| **50 Fly** | 38.66 LCM broke 40 at age 10 — big breakthrough after first appearance 7 days earlier |
+| **IM base** | 200 IM SCM 3:19.84 and 100 IM 1:36.40; 200 SC Breast 3:42.91; distance-capable at 10 |
+| **Racing frequency** | 9 meets in 10 months; consistent PBs even after back-to-back weekends |
 
-### Structural patterns worth digging into
+### Structural patterns worth examining
 
-**1. The 100 Free regression is the most interesting swim of the weekend.**
-GHAC Spring Apr 11: 1:23.01 (PB). Pocock Apr 17: **1:24.21** (+1.20). Six days between meets, back-to-back LC racing right after her heaviest SCM block. Most likely: accumulated fatigue from GHAC Spring (her first big LC meet) showing up on 100 Free specifically. It's the only event where she regressed. Everything else went PB. Not alarming — 100 Free fades last when tired.
+**1. The 50 Free plateau is the most persistent anomaly.**
+SC PB 36.40 and LC PB 36.23 are nearly identical — SCM should be roughly 0.8–1.2s faster over 50m because of the extra turn. The flat or inverted ratio points strongly to **wall efficiency**: shallow streamline off turns, or a turn that isn't generating speed. Everything else is progressing; the 50 Free is plateauing. This is the highest-ROI technical fix available.
 
-**2. SCM and LCM 50 Free are still nearly identical (SC 36.40 vs LC 36.23).**
-Still no Pocock 50 Free swim to update this, but the anomaly persists. SCM should be ~0.8–1.2s *faster* on a 50. Flat / inverted usually means **walls are leaking time**: shallow streamline, late push-off. Highest-ROI fix at her age.
+**2. The 100 Free Pocock regression is not alarming — but worth monitoring.**
+1:23.01 at GHAC Spring (Apr 11) → 1:24.21 at Pocock (Apr 17). Six days, back-to-back LC meets, heaviest SCM block behind her. The 100 Free is typically the event that shows fatigue first. Every other event went PB. Pattern: she can PB on 5 of 6 events but not maintain peak 100 Free on a 6-day turnaround. That's a recovery/taper signal, not a technique concern.
 
-**3. 50 Fly breakthrough is promising.**
-41.31 → 38.66 in one week (−2.65). That's a real drop, not a data noise fluctuation. If the training focus on Fly is new, it's working — keep doing it.
+**3. 50 Fly progression is real.**
+41.31 (first LC Fly, Apr 11) → 38.66 (Apr 18) — 2.65s in 7 days. That kind of jump usually means a technical click, not just fitness. If the GHAC coaching staff is actively developing Fly, it's working. Keep racing it.
 
-**4. 50 Breast noise was in SCM only.**
-The LC 50 Breast progression (1:01.76 → 51.79 across 10 months) is clean. The SCM noise (49.62 → 53.27 → 50.54 → 48.85) is what needs attention.
+**4. 50 Breast SCM 48.85 is underrated.**
+Her Breast sprint is among the best in the GHAC 10&U cohort, yet it rarely makes the headline. Worth watching as she transitions into 100 Fly and longer IM events.
 
-**5. Distance/IM profile strengthening.**
-200 SC Free 2:59.79, 200 LC Free 3:00.13 (both sub-/near-3:00 at 10), 200 IM 3:19.84. IM/distance profile over pure sprint is now clear.
+**5. IM/distance profile is strengthening.**
+200 SC Free 2:59.79, 200 LC Free 3:00.13 (sub- or near-3:00 at age 10), 200 IM 3:19.84. The long-axis / distance base is clearly there.
 
-### Vs. Swim Ontario girls-10 standards (approximate)
+### WOSA / OAG trajectory
 
-With the Pocock PBs, she's now at or near **Provincial-qualifying** level on 100 LC Back (1:30.36) and 50 LC Fly (38.66). Other events solidly Regional, trending toward Provincial. Biggest gap: 50 LC/SC Free, stuck around 36.2–36.4.
+WOSA-qualified on 18 of 19 events. The one outstanding miss is 100 SC Free (1:24.21 vs cut 1:23.60 — 0.61s away). At her current improvement rate that should fall at the next SCM meet.
+
+OAG gaps are real but not out of reach in 1–2 seasons. Closest OAG cuts: **50 LC Fly** (2.21s to go), **100 LC Back** (7.67s to go). The Fly cut is genuinely within reach this season if momentum holds.
 
 ### Areas of focus — ranked by likely impact
 
-1. **Walls and streamline** — highest ROI; SC≈LC anomaly persists, unchanged.
-2. **Fly volume** — the 38.66 breakthrough suggests this is working. Keep building; race a 100 Fly next meet.
-3. **Recovery between back-to-back meets** — the 100 Free regression suggests she's draining between meets. Taper / recovery protocol for double LC weekends.
-4. **100 Back pacing** — improved to 1:30.36 LC but was still likely out-hot. Still worth a look at splits.
-5. **Dryland / start reaction** — 50 Free plateau persists.
+1. **Walls and streamline** — the SC≈LC anomaly on 50 Free is the clearest indicator. Highest ROI fix at this stage.
+2. **Race a 100 LC Fly** — the 38.66 LC Fly breakthrough makes this the obvious next target; no 100 Fly time on record in any course yet.
+3. **Back-to-back meet management** — build a recovery protocol for double LC weekends so 100 Free doesn't drain.
+4. **200 LC Back** — no record yet; she has a strong 200 SCM Back (3:15.65) and LCM 100 Back (1:30.36). A 200 LC Back would round out the distance profile.
+5. **OAG targeting** — 50 LC Fly and 100 LC Back are the nearest OAG cuts; prioritize at Summer LC Inv.
 
 ### What to watch for
 
-- **GHAC Summer LC Inv (May 22–24):** third LC meet of her career; watch whether 100 Free recovers and whether she maintains the 50 Fly breakthrough.
-- **Any 200 Back, 100 Fly, or 400 Free LC attempt** — still no record of these on LC.
-- **100 SC IM and 200 SC IM** next SCM cycle — IM development is the key integration event.
+- **GHAC Summer LC Inv (May 22–24):** Will 100 Free recover? Does she race 100 LC Fly for the first time? Can she break 3:00 LC 200 Free?
+- **2026-2027 SCM season:** First attempt at WOSA for 100 SC Free; whether OAG cuts on 50 Fly / 100 Back start to appear.
+- **Sub-36 LC 50 Free:** the wall fix is the key unlock — if turns improve, the 50 Free plateau breaks.
 
 <!-- ANALYSIS:END -->

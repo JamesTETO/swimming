@@ -4,7 +4,7 @@
 - **DOB:** 2015-09-29
 - **Sex:** F
 - **Swims on record:** 30 across 10 meets
-- **Last refresh:** 2026-04-23 14:57 UTC
+- **Last refresh:** 2026-04-23 15:27 UTC
 
 ## Highlights since the last update
 <!-- HIGHLIGHTS:START — Claude-maintained, preserved across refreshes -->
@@ -99,24 +99,24 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 | Event | Course | PB | Age at PB | Regional (WOSA) | Provincial (OAG) |
 |---|---|---|---|---|---|
 | **— QUALIFIED —** ||||||
-| 100 Free | LCM | **1:22.47** | age 10 | ✅ 1:25.41 | ❌ 1:12.23 |
-| 100 Breast | LCM | **1:49.42** | age 10 | ✅ 1:52.16 | ❌ 1:35.01 |
-| 200 Free | LCM | **3:01.18** | age 10 | ✅ 3:04.90 | ❌ 2:36.36 |
-| 200 Breast | LCM | **3:51.43** | age 10 | ✅ 3:59.57 | ❌ 3:22.94 |
-| 50 Free | SCM | **37.89** | age 10 | ✅ 37.97 | ❌ 32.16 |
-| 50 Breast | SCM | **46.97** | age 10 | ✅ 50.82 | ❌ 43.11 |
-| 100 Breast | SCM | **1:46.95** | age 10 | ✅ 1:49.95 | ❌ 1:33.14 |
-| 200 IM | SCM | **3:24.10** | age 10 | ✅ 3:25.94 | ❌ 2:55.23 |
+| 100 Free | LCM | **1:22.47** | age 10 | ✅ 1:25.41 (+2.94s) | ❌ 1:12.23 (−10.24s) |
+| 100 Breast | LCM | **1:49.42** | age 10 | ✅ 1:52.16 (+2.74s) | ❌ 1:35.01 (−14.41s) |
+| 200 Free | LCM | **3:01.18** | age 10 | ✅ 3:04.90 (+3.72s) | ❌ 2:36.36 (−24.82s) |
+| 200 Breast | LCM | **3:51.43** | age 10 | ✅ 3:59.57 (+8.14s) | ❌ 3:22.94 (−28.49s) |
+| 50 Free | SCM | **37.89** | age 10 | ✅ 37.97 (+0.08s) | ❌ 32.16 (−5.73s) |
+| 50 Breast | SCM | **46.97** | age 10 | ✅ 50.82 (+3.85s) | ❌ 43.11 (−3.86s) |
+| 100 Breast | SCM | **1:46.95** | age 10 | ✅ 1:49.95 (+3.00s) | ❌ 1:33.14 (−13.81s) |
+| 200 IM | SCM | **3:24.10** | age 10 | ✅ 3:25.94 (+1.84s) | ❌ 2:55.23 (−28.87s) |
 | **— NOT YET QUALIFIED —** ||||||
-| 50 Free | LCM | **43.98** | age 9 | ❌ 38.80 | ❌ 32.81 |
-| 50 Back | LCM | **46.10** | age 10 | ❌ 45.86 | ❌ 38.85 |
-| 50 Breast | LCM | **56.74** | age 9 | ❌ 51.84 | ❌ 43.91 |
-| 50 Fly | LCM | **49.17** | age 10 | ❌ 43.03 | ❌ 36.45 |
-| 100 Back | LCM | **1:58.94** | age 9 | ❌ 1:37.61 | ❌ 1:22.69 |
-| 50 Back | SCM | **47.62** | age 10 | ❌ 44.96 | ❌ 38.09 |
-| 200 Free | SCM | **3:01.06** | age 10 | ❌ 3:00.97 | ❌ 2:33.30 |
-| 400 Free | SCM | **6:55.98** | age 10 | ❌ 6:20.40 | ❌ 5:22.24 |
-| 800 Free | SCM | **14:07.69** | age 10 | ❌ 13:06.80 | ❌ 11:06.51 |
+| 50 Free | LCM | **43.98** | age 9 | ❌ 38.80 (−5.18s) | ❌ 32.81 (−11.17s) |
+| 50 Back | LCM | **46.10** | age 10 | ❌ 45.86 (−0.24s) | ❌ 38.85 (−7.25s) |
+| 50 Breast | LCM | **56.74** | age 9 | ❌ 51.84 (−4.90s) | ❌ 43.91 (−12.83s) |
+| 50 Fly | LCM | **49.17** | age 10 | ❌ 43.03 (−6.14s) | ❌ 36.45 (−12.72s) |
+| 100 Back | LCM | **1:58.94** | age 9 | ❌ 1:37.61 (−21.33s) | ❌ 1:22.69 (−36.25s) |
+| 50 Back | SCM | **47.62** | age 10 | ❌ 44.96 (−2.66s) | ❌ 38.09 (−9.53s) |
+| 200 Free | SCM | **3:01.06** | age 10 | ❌ 3:00.97 (−0.09s) | ❌ 2:33.30 (−27.76s) |
+| 400 Free | SCM | **6:55.98** | age 10 | ❌ 6:20.40 (−35.58s) | ❌ 5:22.24 (−93.74s) |
+| 800 Free | SCM | **14:07.69** | age 10 | ❌ 13:06.80 (−60.89s) | ❌ 11:06.51 (−181.18s) |
 
 ## All swims
 
@@ -174,7 +174,7 @@ _Updated 2026-04-23 with Lou Pocock results (Apr 17–18). 5 new LCM swims; PBs 
 | **200 Free** | 3:01.18 | — | first (only ~0.12s slower than SC 200 Free) |
 | **200 Breast** | 3:51.43 | 3:53.64 (Apr 11) | **−2.21** PB |
 
-**The big story is she finally has current LC numbers for Back and Breast** — the stale-data problem I flagged last week is resolved. 100 LC Breast 1:49.42 vs my prediction of 1:52–1:55 → **she was even faster than the projection** (validating that breast remains her strongest stroke).
+100 LC Breast 1:49.42 validates the trajectory — she was at or ahead of any reasonable projection, confirming breast remains her identity stroke.
 
 ### What the data says she's good at
 
@@ -182,52 +182,48 @@ _Updated 2026-04-23 with Lou Pocock results (Apr 17–18). 5 new LCM swims; PBs 
 |---|---|
 | **100 SC Breast** | Textbook progression: 1:51.69 → 1:49.41 → 1:46.95 (−4.74s across 3 meets, never regressed) |
 | **100 LC Breast** | 1:49.42 at Pocock — only 2.47s slower than her SC PB (well below typical SC→LC gap) |
-| **50 SC Breast** | 46.97 — faster than Kennedy (48.85) despite being slower on nearly every other event |
+| **50 SC Breast** | 46.97 — fastest in the GHAC 10&U girls cohort |
+| **100 LC Free** | 1:22.47 at Pocock — fastest in the GHAC 10&U girls cohort |
 | **400 SC Free** | −22.01s in 2½ months (7:17.99 → 6:55.98) |
-| **Distance commitment** | Only one of the three to race 800 and 1500 Free |
-| **200 Free consistency** | LC 3:01.18 ≈ SC 3:01.06 (essentially identical across courses) |
+| **Distance commitment** | Raced 800 and 1500 Free SCM — the only GHAC 10&U swimmer in the data to do so |
 
-### Profile vs. cohort
+### Profile and identity
 
-Matching events comparison (updated with Pocock):
+After Pocock, Arina's profile is clearly **Breast / distance Free specialist**. She holds the fastest 100 LC Free in the GHAC 10&U girls cohort (1:22.47) and has the strongest Breast progression in the group, with the fastest 50 SC Breast (46.97) and a 100 LC Breast (1:49.42) right at the top.
 
-| Event | Anya | Kennedy | Arina |
-|---|---|---|---|
-| 50 LC Back | 45.35 | **41.60** | 46.10 |
-| 100 LC Free | 1:28.06 | 1:24.21 | **1:22.47** |
-| 100 LC Breast | 1:49.42 (Arina) | **1:48.04** (Kennedy) | 1:49.42 |
-| 200 LC Free | — | **3:00.13** | 3:01.18 |
-| 50 SC Breast | 55.31 | 48.85 | **46.97** |
-| 100 SC Breast | 2:03.07 | **1:45.69** | 1:46.95 |
+Breast-to-free ratio: LC 100 Breast/100 Free = 1:49.42/1:22.47 = **1.34**. A ratio above 1.30 typically signals a swimmer whose Breast is stronger relative to Free than average — this confirms Breast is her identity stroke, not just a secondary event. Her profile is "Breast/distance Free specialist" — a clear identity that should inform event selection going forward.
 
-On LC breast, Kennedy is 1.38s ahead — closer than SC (Kennedy is 1.26s ahead). Arina is now the **second-fastest 100 LC Breast in the cohort** and beat Kennedy on the 100 LC Free (1:22.47 vs 1:24.21). Breast-to-free ratio holds: Arina's LC 100 Breast/100 Free is 1:49.42/1:22.47 = **1.34**. Kennedy's is 1:48.04/1:24.21 = **1.28**. Kennedy's LC breast has caught up unusually fast (prior LC was 10 months stale); will be interesting to see if that holds next meet.
+The distance profile is unusually developed for age 10: 400 SC Free (6:55.98), 800 SC Free (14:07.69), 1500 SC Free (26:32.22). Most 10&U girls haven't raced those distances at all. It's a meaningful commitment, not noise.
 
 ### Gaps that remain
 
 **1. Back record still thin — 50 only, no 100.**
-50 LC Back 46.10 at Pocock (fresh) is a big update. But **no 100 LC Back** entered at Pocock (Kennedy and Anya both did 50 *and* 100). Still no SC 100 Back ever. Back is being avoided at the 100 distance.
+50 LC Back 46.10 at Pocock is a big update from the stale 2025 time. But no 100 LC Back was entered at Pocock, and there is no SC 100 Back on record at all. GHAC teammates entered both 50 and 100 Back at the same meet. Back at the 100 distance is being avoided, and that's increasingly conspicuous.
 
 **2. Butterfly still nearly non-existent.**
-Pocock entries: 50 Back, 100 Free, 100 Breast, 200 Free, 200 Breast. **No Fly event at all at Pocock.** The one-off 50 LC Fly (49.17) at GHAC Spring is still her only fly swim. Predicted avoidance was structural — confirmed.
+Pocock entries: 50 Back, 100 Free, 100 Breast, 200 Free, 200 Breast — no Fly. The one-off 50 LC Fly (49.17) at GHAC Spring is still her only fly swim. With a Breast-focused profile, Fly is the missing piece for any future IM development.
 
 **3. No IM at any course.**
-Neither 100 IM nor 200 IM on LC. No IM at Pocock either.
+Neither 100 IM nor 200 IM on LC. No IM at Pocock. For a swimmer with distance Free and Breast as her two strongest events, IM is the natural next step — and it remains empty.
 
-**4. The 200 Free LC ≈ 200 Free SC at 3:01 is unusual.**
-SC should be noticeably faster over 200m because of 3 extra turns. The fact her 200 LC is essentially identical to her 200 SC (3:01.18 vs 3:01.06) suggests **weak SC turn value** — same diagnosis as Kennedy's walls problem but on the distance side.
+**4. The 200 Free LC ≈ 200 Free SC is unusual.**
+SCM should be noticeably faster over 200m because of 3 extra turns providing push-off velocity. LC 3:01.18 ≈ SC 3:01.06 (essentially identical) suggests she's not extracting meaningful speed from SCM walls. This is common at age 10 but worth a technical look — streamline and push-off off turns would close the gap on all distance events.
+
+**5. 50 Free LCM is stale.**
+43.98 (age 9, Jun 2025) has not been updated at any subsequent LC meet. Her SCM 50 Free has improved to 37.89 by Winter. The current LC 50 Free PB almost certainly doesn't reflect her real ability.
 
 ### Areas of focus — ranked by likely impact
 
-1. **Race a 100 LC Back** — Pocock was the obvious venue; she chose not to. Back remains the biggest development hole.
-2. **Start racing Butterfly** — still zero SC Fly swims; one LC Fly in 10 months. Not tenable for an IM/breast profile.
-3. **Walls/turns on distance events** — the 200 LC ≈ 200 SC anomaly mirrors Kennedy's 50 Free pattern. Streamline + push-off = same fix.
-4. **Protect the breast progression** — Pocock 100 LC Breast 1:49.42 validates the trajectory. Keep her racing it every LC meet.
-5. **Race 100 SC Free and 100 IM** — still missing benchmarks.
+1. **Race a 100 LC Back** — the GHAC Summer LC Inv (May 22–24) is the next opportunity. This is the most important development gap.
+2. **Start racing Butterfly** — zero SC Fly swims; one LC Fly appearance in 10 months. Even a 50 SC Fly debut next SCM season would establish a baseline.
+3. **Walls and turns on distance events** — the 200 LC ≈ 200 SC anomaly is a turn-efficiency issue. Streamline and push-off off the wall would help all distance events.
+4. **Protect the breast progression** — 100 LC Breast 1:49.42 validates the trajectory. Race it every LC meet.
+5. **Update the 50 Free LCM** — enter at Summer Inv for an honest current baseline.
 
 ### What to watch for
 
-- **GHAC Summer LC Inv (May 22–24):** does she finally enter 100 LC Back? Any Fly? A 100 LC IM would be diagnostic.
-- **Next SCM cycle (Oct 2026+):** 100 SC Back and SC Fly appearing = coach widening her; not appearing = confirmed specialist profile.
-- **Distance LC:** 400 LC / 800 LC at Summer Inv — she has the SC base.
+- **GHAC Summer LC Inv (May 22–24):** Does she finally enter 100 LC Back? Any Fly event? A 100 LC IM would be diagnostic.
+- **Next SCM cycle (Oct 2026+):** 100 SC Back and SC Fly appearing = coaching staff widening her; not appearing = confirmed specialist profile.
+- **Distance LC:** 400 LC / 800 LC at Summer Inv — she has the SC base. Those times would be informative.
 
 <!-- ANALYSIS:END -->
