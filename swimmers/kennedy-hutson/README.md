@@ -3,8 +3,8 @@
 - **SNC #:** 140196158
 - **DOB:** 2015-11-08
 - **Sex:** F
-- **Swims on record:** 51 across 9 meets
-- **Last refresh:** 2026-04-24 18:17 UTC
+- **Swims on record:** 54 across 10 meets
+- **Last refresh:** 2026-04-24 18:53 UTC
 
 ## Highlights since the last update
 <!-- HIGHLIGHTS:START — Claude-maintained, preserved across refreshes -->
@@ -52,6 +52,8 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 | 200 IM | SCM | **3:19.84** | 2026-02-15 | 2026 Western Region SC Championships | 10 | ✅ 3:25.94 (+6.10s) | ❌ 2:55.23 (−24.61s) |
 | **— NOT YET QUALIFIED —** ||||||||
 | 100 Free | SCM | **1:24.21** | 2026-03-08 | GHAC Winter Invitational 2026 | 10 | ❌ 1:23.60 (−0.61s) | ❌ 1:10.82 (−13.39s) |
+| 400 Free | SCM | **6:30.45** | 2026-04-22 | GHAC In-House Time Trial 800 Free | 10 | ❌ 6:20.40 (−10.05s) | ❌ 5:22.24 (−68.21s) |
+| 800 Free | SCM | **13:08.54** | 2026-04-22 | GHAC In-House Time Trial 800 Free | 10 | ❌ 13:06.80 (−1.74s) | ❌ 11:06.51 (−122.03s) |
 | **— NO STANDARD —** ||||||||
 | 100 IM | SCM | **1:36.40** | 2025-12-13 | GHAC Super Fun Development Meet #1 | 10 | — | — |
 
@@ -183,8 +185,11 @@ OAG gaps are real but not out of reach in 1–2 seasons. Closest OAG cuts: **50 
 |  | 2026-03-08 | GHAC Winter Invitational 2026 | **1:45.69** | −5.43 |
 | **200 Free** | 2025-11-23 | GHAC Fall Invitational | **3:11.18** | first |
 |  | 2026-03-06 | GHAC Winter Invitational 2026 | **2:59.79** | −11.39 |
+|  | 2026-04-22 | GHAC In-House Time Trial 800 Free | 3:10.62 | +10.83 |
 | **200 Back** | 2026-03-07 | GHAC Winter Invitational 2026 | **3:15.65** | first |
 | **200 Breast** | 2025-12-05 | 2025 Border City Invitational | **3:42.91** | first |
+| **400 Free** | 2026-04-22 | GHAC In-House Time Trial 800 Free | **6:30.45** | first |
+| **800 Free** | 2026-04-22 | GHAC In-House Time Trial 800 Free | **13:08.54** | first |
 | **100 IM** | 2025-12-13 | GHAC Super Fun Development Meet #1 | **1:36.40** | first |
 | **200 IM** | 2025-12-06 | 2025 Border City Invitational | **3:25.05** | first |
 |  | 2026-02-15 | 2026 Western Region SC Championships | **3:19.84** | −5.21 |
@@ -247,5 +252,8 @@ OAG gaps are real but not out of reach in 1–2 seasons. Closest OAG cuts: **50 
 | 2026-04-18 | Lou Pocock Invitational 2026 | LCM | 200 Free | 3:00.13 |
 | 2026-04-18 | Lou Pocock Invitational 2026 | LCM | 100 Back | 1:30.36 |
 | 2026-04-18 | Lou Pocock Invitational 2026 | LCM | 50 Fly | 38.66 |
+| 2026-04-22 | GHAC In-House Time Trial 800 Free | SCM | 200 Free | 3:10.62 |
+| 2026-04-22 | GHAC In-House Time Trial 800 Free | SCM | 400 Free | 6:30.45 |
+| 2026-04-22 | GHAC In-House Time Trial 800 Free | SCM | 800 Free | 13:08.54 |
 
 <!-- AUTOGEN:BOTTOM:END -->

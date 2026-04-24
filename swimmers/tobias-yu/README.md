@@ -4,7 +4,7 @@
 - **DOB:** 2015-04-14
 - **Sex:** M
 - **Swims on record:** 65 across 9 meets
-- **Last refresh:** 2026-04-24 18:17 UTC
+- **Last refresh:** 2026-04-24 18:53 UTC
 
 ## Highlights since the last update
 <!-- HIGHLIGHTS:START — Claude-maintained, preserved across refreshes -->

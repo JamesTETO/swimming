@@ -3,8 +3,8 @@
 - **SNC #:** 131013006
 - **DOB:** 2015-09-29
 - **Sex:** F
-- **Swims on record:** 30 across 10 meets
-- **Last refresh:** 2026-04-24 18:17 UTC
+- **Swims on record:** 33 across 11 meets
+- **Last refresh:** 2026-04-24 18:53 UTC
 
 ## Highlights since the last update
 <!-- HIGHLIGHTS:START — Claude-maintained, preserved across refreshes -->
@@ -47,8 +47,8 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 | 100 Back | LCM | **1:58.94** | 2025-06-20 | 2025 BAD Outdoor LC Invitational | 9 | ❌ 1:37.61 (−21.33s) | ❌ 1:22.69 (−36.25s) |
 | 50 Back | SCM | **47.62** | 2026-02-13 | 2026 Western Region SC Championships | 10 | ❌ 44.96 (−2.66s) | ❌ 38.09 (−9.53s) |
 | 200 Free | SCM | **3:01.06** | 2026-02-13 | 2026 Western Region SC Championships | 10 | ❌ 3:00.97 (−0.09s) | ❌ 2:33.30 (−27.76s) |
-| 400 Free | SCM | **6:55.98** | 2026-01-17 | GHAC In-House Time Trial Group 2 202 | 10 | ❌ 6:20.40 (−35.58s) | ❌ 5:22.24 (−93.74s) |
-| 800 Free | SCM | **14:07.69** | 2026-01-17 | GHAC In-House Time Trial Group 2 202 | 10 | ❌ 13:06.80 (−60.89s) | ❌ 11:06.51 (−181.18s) |
+| 400 Free | SCM | **6:30.06** | 2026-04-22 | GHAC In-House Time Trial 800 Free | 10 | ❌ 6:20.40 (−9.66s) | ❌ 5:22.24 (−67.82s) |
+| 800 Free | SCM | **13:07.64** | 2026-04-22 | GHAC In-House Time Trial 800 Free | 10 | ❌ 13:06.80 (−0.84s) | ❌ 11:06.51 (−121.13s) |
 | **— NO STANDARD —** ||||||||
 | 1500 Free | SCM | **26:32.22** | 2026-01-17 | GHAC In-House Time Trial Group 2 202 | 10 | — | — |
 | 100 IM | SCM | **1:43.07** | 2025-12-13 | GHAC Super Fun Development Meet #1 | 10 | — | — |
@@ -163,9 +163,12 @@ SCM should be noticeably faster over 200m because of 3 extra turns providing pus
 |  | 2026-02-13 | 2026 Western Region SC Championships | **1:46.95** | −2.46 |
 | **200 Free** | 2026-01-30 | GHAC SC Last Chance Qualifier 2026 | **3:06.84** | first |
 |  | 2026-02-13 | 2026 Western Region SC Championships | **3:01.06** | −5.78 |
+|  | 2026-04-22 | GHAC In-House Time Trial 800 Free | 3:11.30 | +10.24 |
 | **400 Free** | 2025-11-01 | GHAC In-House Time Trial 2025-11-01 | **7:17.99** | first |
 |  | 2026-01-17 | GHAC In-House Time Trial Group 2 2025-01-17 | **6:55.98** | −22.01 |
+|  | 2026-04-22 | GHAC In-House Time Trial 800 Free | **6:30.06** | −25.92 |
 | **800 Free** | 2026-01-17 | GHAC In-House Time Trial Group 2 2025-01-17 | **14:07.69** | first |
+|  | 2026-04-22 | GHAC In-House Time Trial 800 Free | **13:07.64** | −60.05 |
 | **1500 Free** | 2026-01-17 | GHAC In-House Time Trial Group 2 2025-01-17 | **26:32.22** | first |
 | **100 IM** | 2025-12-13 | GHAC Super Fun Development Meet #1 | **1:43.07** | first |
 | **200 IM** | 2026-03-07 | GHAC Winter Invitational 2026 | **3:24.10** | first |
@@ -206,5 +209,8 @@ SCM should be noticeably faster over 200m because of 3 extra turns providing pus
 | 2026-04-17 | Lou Pocock Invitational 2026 | LCM | 100 Breast | 1:49.42 |
 | 2026-04-18 | Lou Pocock Invitational 2026 | LCM | 200 Free | 3:01.18 |
 | 2026-04-18 | Lou Pocock Invitational 2026 | LCM | 200 Breast | 3:51.43 |
+| 2026-04-22 | GHAC In-House Time Trial 800 Free | SCM | 200 Free | 3:11.30 |
+| 2026-04-22 | GHAC In-House Time Trial 800 Free | SCM | 400 Free | 6:30.06 |
+| 2026-04-22 | GHAC In-House Time Trial 800 Free | SCM | 800 Free | 13:07.64 |
 
 <!-- AUTOGEN:BOTTOM:END -->
