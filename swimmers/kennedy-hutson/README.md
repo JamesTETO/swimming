@@ -64,7 +64,7 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 
 _Disclaimer: not a coach's analysis. Pattern-reading from the data above. Verify with her actual coach._
 
-_Updated 2026-04-23 with Lou Pocock results (Apr 17–18). 6 new LCM swims; PBs on 5 of them._
+_Updated 2026-04-24. 54 swims across 10 meets, including post-Pocock GHAC In-House 800 Free TT (Apr 22 — first-ever 400 and 800 Free) and a December Border City Invitational that filled in her full SCM baseline._
 
 ### Lou Pocock takeaways (LCM, Apr 17–18)
 
@@ -76,6 +76,22 @@ _Updated 2026-04-23 with Lou Pocock results (Apr 17–18). 6 new LCM swims; PBs 
 | **100 Breast** | 1:48.04 | 2:12.60 (Jun 2025) | **−24.56** PB — prior was 10 months stale |
 | **200 Free** | 3:00.13 | — | first — just missed sub-3:00 |
 | 100 Free | 1:24.21 | 1:23.01 (Apr 11) | +1.20 only regression |
+
+### Post-Pocock distance TT (SCM, Apr 22)
+
+Four days after Pocock, she raced her first-ever 400 and 800 Free in a GHAC in-house time trial — both debuts:
+
+| Event | Time | Note |
+|---|---|---|
+| **400 Free SCM** | **6:30.45** | first; still 5s from WOSA cut (6:25.34) |
+| **800 Free SCM** | **13:08.54** | first; solid baseline at age 10 |
+| 200 Free SCM | 3:10.62 | +10.83 vs Mar PB (2:59.79) — done as part of a distance set, not a race attempt |
+
+The 400/800 debuts matter. Kennedy has been racing 50s/100s/200s all year; these were the first honest distance tests and they land in a reasonable place. The 400 Free is close enough to WOSA (~5s) that a single race-tapered attempt could qualify it.
+
+### Border City Invitational (SCM, Dec 5–7, 2025)
+
+Pulled in from a cache refresh — not new in real time but new in this record. Border City was effectively her **SCM coming-out meet**: 9 event debuts in 3 days covering the full SC program (50/100 Free, 50/100 Back, 50/100 Breast, 50 Fly, 200 IM, 200 Breast). Every SC event she's raced since traces back to these baselines.
 
 ### What the data says she's good at
 
@@ -91,7 +107,7 @@ _Updated 2026-04-23 with Lou Pocock results (Apr 17–18). 6 new LCM swims; PBs 
 ### Structural patterns worth examining
 
 **1. The 50 Free plateau is the most persistent anomaly.**
-SC PB 36.40 and LC PB 36.23 are nearly identical — SCM should be roughly 0.8–1.2s faster over 50m because of the extra turn. The flat or inverted ratio points strongly to **wall efficiency**: shallow streamline off turns, or a turn that isn't generating speed. Everything else is progressing; the 50 Free is plateauing. This is the highest-ROI technical fix available.
+SC PB 36.40 and LC PB 36.23 are nearly identical — SCM should be roughly 0.8–1.2s faster over 50m because of the extra turn. With the Border City data now included, her 50 SC Free reads 36.45 → 37.07 → 36.40 → 36.62 across four meets — a stable ~36.5 range, not trending down. The flat or inverted SC/LC ratio points strongly to **wall efficiency**: shallow streamline off turns, or a turn that isn't generating speed. Everything else is progressing; the 50 Free is stuck in place. This is the highest-ROI technical fix available.
 
 **2. The 100 Free Pocock regression is not alarming — but worth monitoring.**
 1:23.01 at GHAC Spring (Apr 11) → 1:24.21 at Pocock (Apr 17). Six days, back-to-back LC meets, heaviest SCM block behind her. The 100 Free is typically the event that shows fatigue first. Every other event went PB. Pattern: she can PB on 5 of 6 events but not maintain peak 100 Free on a 6-day turnaround. That's a recovery/taper signal, not a technique concern.
@@ -102,12 +118,12 @@ SC PB 36.40 and LC PB 36.23 are nearly identical — SCM should be roughly 0.8�
 **4. 50 Breast SCM 48.85 is underrated.**
 Her Breast sprint is among the best in the GHAC 10&U cohort, yet it rarely makes the headline. Worth watching as she transitions into 100 Fly and longer IM events.
 
-**5. IM/distance profile is strengthening.**
-200 SC Free 2:59.79, 200 LC Free 3:00.13 (sub- or near-3:00 at age 10), 200 IM 3:19.84. The long-axis / distance base is clearly there.
+**5. IM/distance profile is strengthening — and now confirmed over 400/800.**
+200 SC Free 2:59.79, 200 LC Free 3:00.13, 200 IM 3:19.84 — and now a first-ever 400 SC Free at 6:30.45 and 800 SC Free at 13:08.54. At age 10, those distance debuts sit at or near WOSA level (400 is ~5s off the cut). The long-axis / distance base isn't just plausible anymore — it's measured.
 
 ### WOSA / OAG trajectory
 
-WOSA-qualified on 18 of 19 events. The one outstanding miss is 100 SC Free (1:24.21 vs cut 1:23.60 — 0.61s away). At her current improvement rate that should fall at the next SCM meet.
+WOSA-qualified on nearly everything she races. Outstanding WOSA misses: **400 SC Free** (6:30.45 vs cut 6:25.34 — 5.11s to go, debut swim so likely drops quickly with a race taper), and the 100 SC Free at 1:24.21 is 0.61s from cut.
 
 OAG gaps are real but not out of reach in 1–2 seasons. Closest OAG cuts: **50 LC Fly** (2.21s to go), **100 LC Back** (7.67s to go). The Fly cut is genuinely within reach this season if momentum holds.
 

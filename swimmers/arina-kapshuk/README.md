@@ -60,7 +60,7 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 
 _Disclaimer: not a coach's analysis. Pattern-reading from the data above. Verify with her actual coach._
 
-_Updated 2026-04-23 with Lou Pocock results (Apr 17–18). 5 new LCM swims; PBs on 4 of them and a first on the 5th._
+_Updated 2026-04-24. 33 swims across 10 meets, including a post-Pocock GHAC In-House 800 Free TT (Apr 22) that produced the biggest single-session distance improvements in her record._
 
 ### Lou Pocock takeaways (LCM, Apr 17–18)
 
@@ -74,6 +74,18 @@ _Updated 2026-04-23 with Lou Pocock results (Apr 17–18). 5 new LCM swims; PBs 
 
 100 LC Breast 1:49.42 validates the trajectory — she was at or ahead of any reasonable projection, confirming breast remains her identity stroke.
 
+### Post-Pocock distance TT (SCM, Apr 22)
+
+Four days after Pocock, a GHAC in-house time trial produced the single biggest distance jump in her record:
+
+| Event | Apr 22 | Prior PB (Jan 17) | Δ |
+|---|---|---|---|
+| **400 SC Free** | **6:30.06** | 6:55.98 | **−25.92** (3 months) |
+| **800 SC Free** | **13:07.64** | 14:07.69 | **−60.05** — one full minute |
+| 200 SC Free | 3:11.30 | 3:01.06 (Feb 13) | +10.24 — done as part of the distance set, not a race |
+
+Two 25+ second drops on 400 and a full minute off 800 isn't technique refinement — it's the aerobic engine maturing. Her 800 Free is now under 13:10 at age 10, and the 400 at 6:30 puts her well past WOSA (cut 6:20.40) with room to spare. This is a step-change, not incremental.
+
 ### What the data says she's good at
 
 | Event | Evidence |
@@ -82,8 +94,9 @@ _Updated 2026-04-23 with Lou Pocock results (Apr 17–18). 5 new LCM swims; PBs 
 | **100 LC Breast** | 1:49.42 at Pocock — only 2.47s slower than her SC PB (well below typical SC→LC gap) |
 | **50 SC Breast** | 46.97 — fastest in the GHAC 10&U girls cohort |
 | **100 LC Free** | 1:22.47 at Pocock — fastest in the GHAC 10&U girls cohort |
-| **400 SC Free** | −22.01s in 2½ months (7:17.99 → 6:55.98) |
-| **Distance commitment** | Raced 800 and 1500 Free SCM — the only GHAC 10&U swimmer in the data to do so |
+| **400 SC Free** | 7:17.99 → 6:55.98 → **6:30.06** — 47.93s across 6 months; now WOSA-qualified |
+| **800 SC Free** | 14:07.69 → **13:07.64** — a full minute off in 3 months, sub-13:10 at age 10 |
+| **Distance commitment** | Raced 400, 800, and 1500 Free SCM — the clearest distance commitment in the GHAC 10&U group |
 
 ### Profile and identity
 
@@ -91,7 +104,7 @@ After Pocock, Arina's profile is clearly **Breast / distance Free specialist**. 
 
 Breast-to-free ratio: LC 100 Breast/100 Free = 1:49.42/1:22.47 = **1.34**. A ratio above 1.30 typically signals a swimmer whose Breast is stronger relative to Free than average — this confirms Breast is her identity stroke, not just a secondary event. Her profile is "Breast/distance Free specialist" — a clear identity that should inform event selection going forward.
 
-The distance profile is unusually developed for age 10: 400 SC Free (6:55.98), 800 SC Free (14:07.69), 1500 SC Free (26:32.22). Most 10&U girls haven't raced those distances at all. It's a meaningful commitment, not noise.
+The distance profile is unusually developed for age 10 and now updated: 400 SC Free **6:30.06** (WOSA-qualified), 800 SC Free **13:07.64**, 1500 SC Free 26:32.22. The Apr 22 TT added a 25.92s drop on 400 and a full 60.05s drop on 800 in a single session. Most 10&U girls haven't raced those distances at all — Arina is now posting competitive numbers in them. The "distance Free" half of her profile just got materially stronger.
 
 ### Gaps that remain
 
