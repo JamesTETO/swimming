@@ -2,7 +2,7 @@
 
 Per-swimmer progression pages, generated from Swimming Canada REMS Hytek exports.
 
-_Index regenerated: 2026-04-24 00:05 UTC_
+_Index regenerated: 2026-04-24 18:17 UTC_
 
 | Swimmer | DOB | SNC # | Swims | Meets | Page |
 |---|---|---|---|---|---|
