@@ -9,7 +9,22 @@
 ## Highlights since the last update
 <!-- HIGHLIGHTS:START — Claude-maintained, preserved across refreshes -->
 
-_No highlights yet. Ask Claude to refresh after the next meet — this block will summarize the key takeaways at a glance._
+**Meet:** Lou Pocock Invitational 2026 (Windsor, Apr 17–19)
+
+First LC meet as an 11-year-old (birthday Apr 14 — three days before the meet).
+
+**7 PBs + 1 event debut in 9 swims:**
+- 🎉 **100 Fly LCM 1:27.85** (−9.39) — huge drop; now within 3.09s of OAG
+- **100 Free LCM 1:16.71** (−3.30) — third consecutive LC PB
+- **200 Free LCM 2:44.78** (−3.66)
+- **50 Free LCM 35.03** (−1.25) — first sub-36 LCM
+- **50 Fly LCM 36.83** (−0.69) — **0.03s from OAG cut**
+- **400 Free LCM 5:44.54** (first — WOSA qualified on debut)
+- **200 Back LCM 3:04.04** (−0.57)
+- 50 Back LCM 40.84 (+0.73 vs Feb PB) — minor regression
+- 100 Back LCM 1:28.81 (+2.20 vs Jan PB) — larger regression; Back events both slower
+
+**Qualifying movement:** WOSA-qualified in every event he swam at Pocock (9/9). Closest to OAG now: **50 Fly LCM −0.03s** and **50 Back LCM −0.65s**. The 400 Free LCM on debut was already under the WOSA cut.
 
 <!-- HIGHLIGHTS:END -->
 
@@ -230,6 +245,46 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 ## Analysis
 <!-- ANALYSIS:START — Claude-maintained, preserved across refreshes -->
 
-_No analysis yet. Ask Claude to review this swimmer — the `/swim` skill will refresh the data section and the assistant can rewrite this block based on the latest numbers._
+_Disclaimer: not a coach's analysis. Pattern-reading from the data above. Verify with his actual coach._
+
+_First analysis — 2026-04-23. Data through Lou Pocock Invitational (Apr 17–19, 2026), 65 swims across 9 meets._
+
+### What the data says he's good at
+
+| Event | Evidence |
+|---|---|
+| **100 Fly SCM** | 1:42.79 → 1:41.48 → 1:23.50 — 17.98s drop in one meet (Dec → Mar); close to OAG (−0.47s) |
+| **100 Fly LCM** | 1:37.24 → 1:27.85 at Pocock — 9.39s drop; within 3.09s of OAG |
+| **50 Fly** | SCM 36.39 (OAG −0.35s); LCM 36.83 (OAG −0.03s — effectively at the cut) |
+| **Free range** | 50 through 400 on LCM; 50 through 400 on SCM; all consistently improving |
+| **200 Free LCM** | 3:05.11 → 2:48.44 → 2:44.78 — every appearance is a PB |
+| **Event breadth** | 22 unique events across LCM + SCM; 18 of 22 are WOSA-qualified |
+
+### Profile and identity
+
+Toby's data reads like a **mid-distance freestyler with a fast-ascending Fly**. His Free progression is the most linear part of the record — 50, 100, 200, and 400 all trending down steadily across the season. On top of that, his Fly took a massive step forward over winter: 100 Fly SCM dropped 17.98s between December and March, and LCM followed with a 9.39s drop at Pocock. That kind of stroke-specific breakthrough at 10–11 usually means a technique cue clicked — probably kick timing or underwater work.
+
+Back is a solid secondary: multiple WOSA qualifications, and 50 Back LC is now 0.65s from OAG. The Pocock regressions in Back (50 +0.73s, 100 +2.20s) interrupt an otherwise improving trajectory — possibly fatigue from racing 9 events across 3 days, or a start/turn issue that didn't click on the day. Worth watching at the next LC meet to see if it sticks.
+
+### Structural observations
+
+**1. Breast is the development gap.**
+Every one of his non-WOSA-qualified events is Breast-related: 50 Breast LCM, 100 Breast SCM, 50 Breast SCM, 200 IM LCM (IM is dragged down by Breast). He only has one 100 Breast swim on record (1:55.40 SCM in March) and no 100 Breast LCM at all. The 50 Breast SCM dropped 3.09s in April, so improvement is starting. Until Breast catches up, IM will stay below his overall level.
+
+**2. 100 Fly jump is the biggest signal in the record.**
+Dec 1:41.48 → Mar 1:23.50 (SCM) is a structural change, not meet-day variance. The LCM 100 Fly followed with −9.39s at Pocock. When a single stroke moves that fast in that short a window, it's usually one technical element that was holding it back. Worth asking his coach what changed — whatever it was will likely keep paying off.
+
+**3. Lou Pocock was a rehearsal for age-11 standards.**
+He turned 11 three days before the meet. Every "age 10" PB in the qualifying table will now be measured against age-11 cuts going forward. The good news: most of his PBs were already set against 10-year-old standards, and he's already at or near WOSA on the age-11 equivalents. The 50 Fly LCM (0.03s from OAG) is the most realistic next provincial qualification.
+
+**4. 50 Free SCM pattern worth noting.**
+Oct 36.04 → Nov 34.68 → Dec 35.77 → Feb 34.23 → Mar 35.15. Significant in-season bounces. Not a concerning trend (PBs are still coming), but variability of ~1.5s on a 50 suggests the race isn't yet grooved — pacing or stroke count may be inconsistent meet-to-meet.
+
+### What to watch for
+
+- **First OAG qualification** — 50 Fly LCM is 0.03s away; 50 Back LCM 0.65s; 50 Fly SCM 0.35s; 100 Fly SCM 0.47s. Any of these four could pop at the next meet.
+- **100 Breast debut** on LCM — his only 100 Breast swim is SCM (1:55.40). When he first races it LC, that will anchor IM expectations.
+- **Back event recovery** — does Pocock's Back regression revert at the next LC meet, or is it a leveling-off? His 50/100 Back progression was linear before Pocock.
+- **Age-11 season** — all PBs going forward are against tougher cuts, but from a platform of 18 WOSA qualifications and 4 events within 1s of OAG, he's well-positioned.
 
 <!-- ANALYSIS:END -->
