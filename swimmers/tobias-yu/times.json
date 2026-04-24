@@ -1,0 +1,672 @@
+{
+  "swimmer": {
+    "snc": "129243152",
+    "last": "Yu",
+    "first": "Tobias",
+    "sex": "M",
+    "dob": "04142015",
+    "meets": [
+      1187,
+      1483,
+      1501,
+      1539,
+      1544,
+      1592,
+      1618,
+      1622,
+      1922
+    ]
+  },
+  "results": [
+    {
+      "rems": 1187,
+      "meet": "Western Region Long Course Championships",
+      "meet_start": "06132025",
+      "date": "06132025",
+      "distance": 100,
+      "stroke": "A",
+      "time": "86.83",
+      "course": "L"
+    },
+    {
+      "rems": 1187,
+      "meet": "Western Region Long Course Championships",
+      "meet_start": "06132025",
+      "date": "06132025",
+      "distance": 50,
+      "stroke": "B",
+      "time": "45.96",
+      "course": "L"
+    },
+    {
+      "rems": 1187,
+      "meet": "Western Region Long Course Championships",
+      "meet_start": "06132025",
+      "date": "06142025",
+      "distance": 200,
+      "stroke": "A",
+      "time": "185.11",
+      "course": "L"
+    },
+    {
+      "rems": 1187,
+      "meet": "Western Region Long Course Championships",
+      "meet_start": "06132025",
+      "date": "06142025",
+      "distance": 50,
+      "stroke": "D",
+      "time": "40.93",
+      "course": "L"
+    },
+    {
+      "rems": 1187,
+      "meet": "Western Region Long Course Championships",
+      "meet_start": "06132025",
+      "date": "06152025",
+      "distance": 50,
+      "stroke": "A",
+      "time": "38.75",
+      "course": "L"
+    },
+    {
+      "rems": 1187,
+      "meet": "Western Region Long Course Championships",
+      "meet_start": "06132025",
+      "date": "06152025",
+      "distance": 200,
+      "stroke": "E",
+      "time": "219.92",
+      "course": "L"
+    },
+    {
+      "rems": 1483,
+      "meet": "2025 MMST Dash 4 Cash",
+      "meet_start": "10182025",
+      "date": "10182025",
+      "distance": 50,
+      "stroke": "A",
+      "time": "36.04",
+      "course": "S"
+    },
+    {
+      "rems": 1483,
+      "meet": "2025 MMST Dash 4 Cash",
+      "meet_start": "10182025",
+      "date": "10182025",
+      "distance": 100,
+      "stroke": "B",
+      "time": "89.20",
+      "course": "S"
+    },
+    {
+      "rems": 1483,
+      "meet": "2025 MMST Dash 4 Cash",
+      "meet_start": "10182025",
+      "date": "10182025",
+      "distance": 100,
+      "stroke": "D",
+      "time": "102.79",
+      "course": "S"
+    },
+    {
+      "rems": 1483,
+      "meet": "2025 MMST Dash 4 Cash",
+      "meet_start": "10182025",
+      "date": "10192025",
+      "distance": 100,
+      "stroke": "A",
+      "time": "84.92",
+      "course": "S"
+    },
+    {
+      "rems": 1483,
+      "meet": "2025 MMST Dash 4 Cash",
+      "meet_start": "10182025",
+      "date": "10192025",
+      "distance": 50,
+      "stroke": "D",
+      "time": "40.76",
+      "course": "S"
+    },
+    {
+      "rems": 1483,
+      "meet": "2025 MMST Dash 4 Cash",
+      "meet_start": "10182025",
+      "date": "10192025",
+      "distance": 100,
+      "stroke": "E",
+      "time": "97.85",
+      "course": "S"
+    },
+    {
+      "rems": 1618,
+      "meet": "LAC -  Nothers Fall Invitational",
+      "meet_start": "11212025",
+      "date": "11212025",
+      "distance": 50,
+      "stroke": "B",
+      "time": "41.20",
+      "course": "S"
+    },
+    {
+      "rems": 1618,
+      "meet": "LAC -  Nothers Fall Invitational",
+      "meet_start": "11212025",
+      "date": "11212025",
+      "distance": 50,
+      "stroke": "C",
+      "time": "57.44",
+      "course": "S"
+    },
+    {
+      "rems": 1618,
+      "meet": "LAC -  Nothers Fall Invitational",
+      "meet_start": "11212025",
+      "date": "11212025",
+      "distance": 50,
+      "stroke": "D",
+      "time": "38.39",
+      "course": "S"
+    },
+    {
+      "rems": 1618,
+      "meet": "LAC -  Nothers Fall Invitational",
+      "meet_start": "11212025",
+      "date": "11222025",
+      "distance": 50,
+      "stroke": "A",
+      "time": "34.68",
+      "course": "S"
+    },
+    {
+      "rems": 1618,
+      "meet": "LAC -  Nothers Fall Invitational",
+      "meet_start": "11212025",
+      "date": "11222025",
+      "distance": 200,
+      "stroke": "A",
+      "time": "173.27",
+      "course": "S"
+    },
+    {
+      "rems": 1618,
+      "meet": "LAC -  Nothers Fall Invitational",
+      "meet_start": "11212025",
+      "date": "11222025",
+      "distance": 100,
+      "stroke": "B",
+      "time": "86.92",
+      "course": "S"
+    },
+    {
+      "rems": 1618,
+      "meet": "LAC -  Nothers Fall Invitational",
+      "meet_start": "11212025",
+      "date": "11232025",
+      "distance": 100,
+      "stroke": "A",
+      "time": "79.18",
+      "course": "S"
+    },
+    {
+      "rems": 1618,
+      "meet": "LAC -  Nothers Fall Invitational",
+      "meet_start": "11212025",
+      "date": "11232025",
+      "distance": 200,
+      "stroke": "B",
+      "time": "182.61",
+      "course": "S"
+    },
+    {
+      "rems": 1618,
+      "meet": "LAC -  Nothers Fall Invitational",
+      "meet_start": "11212025",
+      "date": "11232025",
+      "distance": 100,
+      "stroke": "E",
+      "time": "94.78",
+      "course": "S"
+    },
+    {
+      "rems": 1539,
+      "meet": "GMAC Dash For Cash Dec 5-7, 2025",
+      "meet_start": "12052025",
+      "date": "12052025",
+      "distance": 200,
+      "stroke": "A",
+      "time": "170.70",
+      "course": "S"
+    },
+    {
+      "rems": 1539,
+      "meet": "GMAC Dash For Cash Dec 5-7, 2025",
+      "meet_start": "12052025",
+      "date": "12052025",
+      "distance": 400,
+      "stroke": "A",
+      "time": "352.83",
+      "course": "S"
+    },
+    {
+      "rems": 1539,
+      "meet": "GMAC Dash For Cash Dec 5-7, 2025",
+      "meet_start": "12052025",
+      "date": "12052025",
+      "distance": 100,
+      "stroke": "B",
+      "time": "88.47",
+      "course": "S"
+    },
+    {
+      "rems": 1539,
+      "meet": "GMAC Dash For Cash Dec 5-7, 2025",
+      "meet_start": "12052025",
+      "date": "12062025",
+      "distance": 50,
+      "stroke": "A",
+      "time": "35.77",
+      "course": "S"
+    },
+    {
+      "rems": 1539,
+      "meet": "GMAC Dash For Cash Dec 5-7, 2025",
+      "meet_start": "12052025",
+      "date": "12062025",
+      "distance": 200,
+      "stroke": "B",
+      "time": "188.33",
+      "course": "S"
+    },
+    {
+      "rems": 1539,
+      "meet": "GMAC Dash For Cash Dec 5-7, 2025",
+      "meet_start": "12052025",
+      "date": "12062025",
+      "distance": 100,
+      "stroke": "D",
+      "time": "101.48",
+      "course": "S"
+    },
+    {
+      "rems": 1539,
+      "meet": "GMAC Dash For Cash Dec 5-7, 2025",
+      "meet_start": "12052025",
+      "date": "12072025",
+      "distance": 100,
+      "stroke": "A",
+      "time": "80.18",
+      "course": "S"
+    },
+    {
+      "rems": 1539,
+      "meet": "GMAC Dash For Cash Dec 5-7, 2025",
+      "meet_start": "12052025",
+      "date": "12072025",
+      "distance": 50,
+      "stroke": "B",
+      "time": "41.40",
+      "course": "S"
+    },
+    {
+      "rems": 1539,
+      "meet": "GMAC Dash For Cash Dec 5-7, 2025",
+      "meet_start": "12052025",
+      "date": "12072025",
+      "distance": 50,
+      "stroke": "D",
+      "time": "38.88",
+      "course": "S"
+    },
+    {
+      "rems": 1501,
+      "meet": "2026 Mallards Winter LC Invitational",
+      "meet_start": "01302026",
+      "date": "01302026",
+      "distance": 100,
+      "stroke": "B",
+      "time": "86.61",
+      "course": "L"
+    },
+    {
+      "rems": 1501,
+      "meet": "2026 Mallards Winter LC Invitational",
+      "meet_start": "01302026",
+      "date": "01302026",
+      "distance": 50,
+      "stroke": "C",
+      "time": "56.00",
+      "course": "L"
+    },
+    {
+      "rems": 1501,
+      "meet": "2026 Mallards Winter LC Invitational",
+      "meet_start": "01302026",
+      "date": "01302026",
+      "distance": 50,
+      "stroke": "D",
+      "time": "37.52",
+      "course": "L"
+    },
+    {
+      "rems": 1501,
+      "meet": "2026 Mallards Winter LC Invitational",
+      "meet_start": "01302026",
+      "date": "01312026",
+      "distance": 50,
+      "stroke": "A",
+      "time": "36.28",
+      "course": "L"
+    },
+    {
+      "rems": 1501,
+      "meet": "2026 Mallards Winter LC Invitational",
+      "meet_start": "01302026",
+      "date": "01312026",
+      "distance": 200,
+      "stroke": "A",
+      "time": "168.44",
+      "course": "L"
+    },
+    {
+      "rems": 1501,
+      "meet": "2026 Mallards Winter LC Invitational",
+      "meet_start": "01302026",
+      "date": "01312026",
+      "distance": 100,
+      "stroke": "D",
+      "time": "97.24",
+      "course": "L"
+    },
+    {
+      "rems": 1501,
+      "meet": "2026 Mallards Winter LC Invitational",
+      "meet_start": "01302026",
+      "date": "02012026",
+      "distance": 100,
+      "stroke": "A",
+      "time": "80.01",
+      "course": "L"
+    },
+    {
+      "rems": 1501,
+      "meet": "2026 Mallards Winter LC Invitational",
+      "meet_start": "01302026",
+      "date": "02012026",
+      "distance": 50,
+      "stroke": "B",
+      "time": "40.11",
+      "course": "L"
+    },
+    {
+      "rems": 1501,
+      "meet": "2026 Mallards Winter LC Invitational",
+      "meet_start": "01302026",
+      "date": "02012026",
+      "distance": 200,
+      "stroke": "B",
+      "time": "184.61",
+      "course": "L"
+    },
+    {
+      "rems": 1622,
+      "meet": "2026 Western Region SC Championships",
+      "meet_start": "02122026",
+      "date": "02132026",
+      "distance": 200,
+      "stroke": "A",
+      "time": "160.02",
+      "course": "S"
+    },
+    {
+      "rems": 1622,
+      "meet": "2026 Western Region SC Championships",
+      "meet_start": "02122026",
+      "date": "02132026",
+      "distance": 50,
+      "stroke": "B",
+      "time": "39.51",
+      "course": "S"
+    },
+    {
+      "rems": 1622,
+      "meet": "2026 Western Region SC Championships",
+      "meet_start": "02122026",
+      "date": "02142026",
+      "distance": 50,
+      "stroke": "A",
+      "time": "34.23",
+      "course": "S"
+    },
+    {
+      "rems": 1622,
+      "meet": "2026 Western Region SC Championships",
+      "meet_start": "02122026",
+      "date": "02142026",
+      "distance": 100,
+      "stroke": "B",
+      "time": "84.93",
+      "course": "S"
+    },
+    {
+      "rems": 1622,
+      "meet": "2026 Western Region SC Championships",
+      "meet_start": "02122026",
+      "date": "02152026",
+      "distance": 200,
+      "stroke": "B",
+      "time": "178.58",
+      "course": "S"
+    },
+    {
+      "rems": 1622,
+      "meet": "2026 Western Region SC Championships",
+      "meet_start": "02122026",
+      "date": "02152026",
+      "distance": 50,
+      "stroke": "D",
+      "time": "36.89",
+      "course": "S"
+    },
+    {
+      "rems": 1592,
+      "meet": "GHAC Winter Invitational 2026",
+      "meet_start": "03062026",
+      "date": "03062026",
+      "distance": 200,
+      "stroke": "A",
+      "time": "162.75",
+      "course": "S"
+    },
+    {
+      "rems": 1592,
+      "meet": "GHAC Winter Invitational 2026",
+      "meet_start": "03062026",
+      "date": "03062026",
+      "distance": 100,
+      "stroke": "B",
+      "time": "84.48",
+      "course": "S"
+    },
+    {
+      "rems": 1592,
+      "meet": "GHAC Winter Invitational 2026",
+      "meet_start": "03062026",
+      "date": "03062026",
+      "distance": 50,
+      "stroke": "D",
+      "time": "37.06",
+      "course": "S"
+    },
+    {
+      "rems": 1592,
+      "meet": "GHAC Winter Invitational 2026",
+      "meet_start": "03062026",
+      "date": "03072026",
+      "distance": 50,
+      "stroke": "A",
+      "time": "35.15",
+      "course": "S"
+    },
+    {
+      "rems": 1592,
+      "meet": "GHAC Winter Invitational 2026",
+      "meet_start": "03062026",
+      "date": "03072026",
+      "distance": 200,
+      "stroke": "B",
+      "time": "179.63",
+      "course": "S"
+    },
+    {
+      "rems": 1592,
+      "meet": "GHAC Winter Invitational 2026",
+      "meet_start": "03062026",
+      "date": "03072026",
+      "distance": 100,
+      "stroke": "D",
+      "time": "83.50",
+      "course": "S"
+    },
+    {
+      "rems": 1592,
+      "meet": "GHAC Winter Invitational 2026",
+      "meet_start": "03062026",
+      "date": "03082026",
+      "distance": 100,
+      "stroke": "A",
+      "time": "76.52",
+      "course": "S"
+    },
+    {
+      "rems": 1592,
+      "meet": "GHAC Winter Invitational 2026",
+      "meet_start": "03062026",
+      "date": "03082026",
+      "distance": 50,
+      "stroke": "B",
+      "time": "40.26",
+      "course": "S"
+    },
+    {
+      "rems": 1592,
+      "meet": "GHAC Winter Invitational 2026",
+      "meet_start": "03062026",
+      "date": "03082026",
+      "distance": 100,
+      "stroke": "C",
+      "time": "115.40",
+      "course": "S"
+    },
+    {
+      "rems": 1544,
+      "meet": "GMAC Spring Skills and Thrills",
+      "meet_start": "04122026",
+      "date": "04122026",
+      "distance": 50,
+      "stroke": "C",
+      "time": "54.35",
+      "course": "S"
+    },
+    {
+      "rems": 1544,
+      "meet": "GMAC Spring Skills and Thrills",
+      "meet_start": "04122026",
+      "date": "04122026",
+      "distance": 50,
+      "stroke": "D",
+      "time": "36.39",
+      "course": "S"
+    },
+    {
+      "rems": 1922,
+      "meet": "Lou Pocock Invitational 2026",
+      "meet_start": "04172026",
+      "date": "04172026",
+      "distance": 100,
+      "stroke": "A",
+      "time": "76.71",
+      "course": "L"
+    },
+    {
+      "rems": 1922,
+      "meet": "Lou Pocock Invitational 2026",
+      "meet_start": "04172026",
+      "date": "04172026",
+      "distance": 400,
+      "stroke": "A",
+      "time": "344.54",
+      "course": "L"
+    },
+    {
+      "rems": 1922,
+      "meet": "Lou Pocock Invitational 2026",
+      "meet_start": "04172026",
+      "date": "04172026",
+      "distance": 50,
+      "stroke": "B",
+      "time": "40.84",
+      "course": "L"
+    },
+    {
+      "rems": 1922,
+      "meet": "Lou Pocock Invitational 2026",
+      "meet_start": "04172026",
+      "date": "04182026",
+      "distance": 200,
+      "stroke": "A",
+      "time": "164.78",
+      "course": "L"
+    },
+    {
+      "rems": 1922,
+      "meet": "Lou Pocock Invitational 2026",
+      "meet_start": "04172026",
+      "date": "04182026",
+      "distance": 100,
+      "stroke": "B",
+      "time": "88.81",
+      "course": "L"
+    },
+    {
+      "rems": 1922,
+      "meet": "Lou Pocock Invitational 2026",
+      "meet_start": "04172026",
+      "date": "04182026",
+      "distance": 50,
+      "stroke": "D",
+      "time": "36.83",
+      "course": "L"
+    },
+    {
+      "rems": 1922,
+      "meet": "Lou Pocock Invitational 2026",
+      "meet_start": "04172026",
+      "date": "04192026",
+      "distance": 50,
+      "stroke": "A",
+      "time": "35.03",
+      "course": "L"
+    },
+    {
+      "rems": 1922,
+      "meet": "Lou Pocock Invitational 2026",
+      "meet_start": "04172026",
+      "date": "04192026",
+      "distance": 200,
+      "stroke": "B",
+      "time": "184.04",
+      "course": "L"
+    },
+    {
+      "rems": 1922,
+      "meet": "Lou Pocock Invitational 2026",
+      "meet_start": "04172026",
+      "date": "04192026",
+      "distance": 100,
+      "stroke": "D",
+      "time": "87.85",
+      "course": "L"
+    }
+  ]
+}
