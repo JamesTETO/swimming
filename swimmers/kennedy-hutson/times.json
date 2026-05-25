@@ -10,6 +10,7 @@
       1591,
       1592,
       1593,
+      1596,
       1622,
       1807,
       1921,
@@ -558,6 +559,66 @@
       "stroke": "A",
       "time": "788.54",
       "course": "S"
+    },
+    {
+      "rems": 1596,
+      "meet": "GHAC May Invitational 2026",
+      "meet_start": "05222026",
+      "date": "05222026",
+      "distance": 100,
+      "stroke": "B",
+      "time": "90.00",
+      "course": "L"
+    },
+    {
+      "rems": 1596,
+      "meet": "GHAC May Invitational 2026",
+      "meet_start": "05222026",
+      "date": "05222026",
+      "distance": 50,
+      "stroke": "D",
+      "time": "37.54",
+      "course": "L"
+    },
+    {
+      "rems": 1596,
+      "meet": "GHAC May Invitational 2026",
+      "meet_start": "05222026",
+      "date": "05222026",
+      "distance": 200,
+      "stroke": "E",
+      "time": "190.04",
+      "course": "L"
+    },
+    {
+      "rems": 1596,
+      "meet": "GHAC May Invitational 2026",
+      "meet_start": "05222026",
+      "date": "05232026",
+      "distance": 100,
+      "stroke": "A",
+      "time": "79.53",
+      "course": "L"
+    },
+    {
+      "rems": 1596,
+      "meet": "GHAC May Invitational 2026",
+      "meet_start": "05222026",
+      "date": "05232026",
+      "distance": 50,
+      "stroke": "B",
+      "time": "39.73",
+      "course": "L"
+    },
+    {
+      "rems": 1596,
+      "meet": "GHAC May Invitational 2026",
+      "meet_start": "05222026",
+      "date": "05232026",
+      "distance": 200,
+      "stroke": "C",
+      "time": "215.49",
+      "course": "L"
     }
   ]
 }

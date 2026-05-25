@@ -11,6 +11,7 @@
       1591,
       1592,
       1593,
+      1596,
       1622,
       1807,
       1922,
@@ -350,6 +351,36 @@
       "stroke": "A",
       "time": "787.64",
       "course": "S"
+    },
+    {
+      "rems": 1596,
+      "meet": "GHAC May Invitational 2026",
+      "meet_start": "05222026",
+      "date": "05232026",
+      "distance": 50,
+      "stroke": "A",
+      "time": "37.49",
+      "course": "L"
+    },
+    {
+      "rems": 1596,
+      "meet": "GHAC May Invitational 2026",
+      "meet_start": "05222026",
+      "date": "05232026",
+      "distance": 100,
+      "stroke": "A",
+      "time": "82.53",
+      "course": "L"
+    },
+    {
+      "rems": 1596,
+      "meet": "GHAC May Invitational 2026",
+      "meet_start": "05222026",
+      "date": "05232026",
+      "distance": 200,
+      "stroke": "C",
+      "time": "222.51",
+      "course": "L"
     }
   ]
 }

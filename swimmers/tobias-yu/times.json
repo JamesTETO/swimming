@@ -14,7 +14,8 @@
       1592,
       1618,
       1622,
-      1922
+      1922,
+      2721
     ]
   },
   "results": [
@@ -666,6 +667,96 @@
       "distance": 100,
       "stroke": "D",
       "time": "87.85",
+      "course": "L"
+    },
+    {
+      "rems": 2721,
+      "meet": "2026 Dr. Ralph Hicken Invitational",
+      "meet_start": "04302026",
+      "date": "05012026",
+      "distance": 100,
+      "stroke": "A",
+      "time": "76.30",
+      "course": "L"
+    },
+    {
+      "rems": 2721,
+      "meet": "2026 Dr. Ralph Hicken Invitational",
+      "meet_start": "04302026",
+      "date": "05012026",
+      "distance": 200,
+      "stroke": "B",
+      "time": "178.90",
+      "course": "L"
+    },
+    {
+      "rems": 2721,
+      "meet": "2026 Dr. Ralph Hicken Invitational",
+      "meet_start": "04302026",
+      "date": "05012026",
+      "distance": 50,
+      "stroke": "D",
+      "time": "36.63",
+      "course": "L"
+    },
+    {
+      "rems": 2721,
+      "meet": "2026 Dr. Ralph Hicken Invitational",
+      "meet_start": "04302026",
+      "date": "05022026",
+      "distance": 50,
+      "stroke": "A",
+      "time": "35.23",
+      "course": "L"
+    },
+    {
+      "rems": 2721,
+      "meet": "2026 Dr. Ralph Hicken Invitational",
+      "meet_start": "04302026",
+      "date": "05022026",
+      "distance": 50,
+      "stroke": "B",
+      "time": "42.03",
+      "course": "L"
+    },
+    {
+      "rems": 2721,
+      "meet": "2026 Dr. Ralph Hicken Invitational",
+      "meet_start": "04302026",
+      "date": "05022026",
+      "distance": 100,
+      "stroke": "D",
+      "time": "88.71",
+      "course": "L"
+    },
+    {
+      "rems": 2721,
+      "meet": "2026 Dr. Ralph Hicken Invitational",
+      "meet_start": "04302026",
+      "date": "05032026",
+      "distance": 200,
+      "stroke": "A",
+      "time": "162.33",
+      "course": "L"
+    },
+    {
+      "rems": 2721,
+      "meet": "2026 Dr. Ralph Hicken Invitational",
+      "meet_start": "04302026",
+      "date": "05032026",
+      "distance": 100,
+      "stroke": "B",
+      "time": "86.96",
+      "course": "L"
+    },
+    {
+      "rems": 2721,
+      "meet": "2026 Dr. Ralph Hicken Invitational",
+      "meet_start": "04302026",
+      "date": "05032026",
+      "distance": 50,
+      "stroke": "C",
+      "time": "55.97",
       "course": "L"
     }
   ]
