@@ -3,22 +3,21 @@
 - **SNC #:** 131013006
 - **DOB:** 2015-09-29
 - **Sex:** F
-- **Swims on record:** 36 across 12 meets
-- **Last refresh:** 2026-05-25 22:32 UTC
+- **Swims on record:** 40 across 13 meets
+- **Last refresh:** 2026-06-09 16:55 UTC
 
 ## Highlights since the last update
 <!-- HIGHLIGHTS:START — Claude-maintained, preserved across refreshes -->
 
-**Meet:** GHAC May Invitational 2026 (May 23)
+**Meet:** 2026 Western Region LC Championships (WOSA, Jun 6–7)
 
-**2 PBs in 3 swims:**
-- 🎉 **50 Free LCM 37.49** (−6.49 vs stale Jun 2025 time at age 9) — **WOSA-qualified** (was 5.18s under cut, now 1.31s over). The stale LC 50 Free PB is finally honest.
-- 🎉 **200 Breast LCM 3:42.51** (−8.92 vs Pocock) — a second big drop on her identity stroke; now 17.06s under WOSA
-- 100 Free LCM 1:22.53 (+0.06 vs Pocock 1:22.47) — essentially a repeat, still the fastest 100 LC Free in the cohort
+**2 PBs + 1 event debut in 4 swims:**
+- 🎉 **50 Breast LCM 49.52** (−7.22 vs stale Jun 2025) — **WOSA-qualified** (+2.32s over cut). Second long-standing LCM gap closed in two consecutive meets (50 Free at May, 50 Breast at WOSA).
+- 🎉 **200 IM LCM 3:29.32** (first ever) — **WOSA-qualified on debut** (+0.74s over cut). Closes the "no IM" development gap flagged in prior analyses.
+- 50 Free LCM 37.74 (+0.25 vs May PB) — held WOSA level
+- 100 Free LCM 1:22.68 (+0.21 vs Pocock PB) — essentially a repeat
 
-**Qualifying movement:** 50 Free LCM closes one of the longest-standing gaps. **Development gaps remain unchanged: no 100 LC Back, no Fly, no IM.**
-
-_See Analysis for the Lou Pocock breakthrough (Apr 17–18) and the post-Pocock distance TT (Apr 22) that dropped 25.92s off her 400 Free and 60.05s off her 800 Free._
+**Qualifying movement:** First ever IM swim and it's WOSA on debut. Gap-closing continues. **Remaining development gaps:** still no 100 LC Back, still no Fly entries at WOSA.
 
 <!-- HIGHLIGHTS:END -->
 
@@ -32,17 +31,18 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 |---|---|---|---|---|---|---|---|
 | **— QUALIFIED —** ||||||||
 | 50 Free | LCM | **37.49** | 2026-05-23 | GHAC May Invitational 2026 | 10 | ✅ 38.80 (+1.31s) | ❌ 32.81 (−4.68s) |
+| 50 Breast | LCM | **49.52** | 2026-06-06 | 2026 Western Region LC Championships | 10 | ✅ 51.84 (+2.32s) | ❌ 43.91 (−5.61s) |
 | 100 Free | LCM | **1:22.47** | 2026-04-17 | Lou Pocock Invitational 2026 | 10 | ✅ 1:25.41 (+2.94s) | ❌ 1:12.23 (−10.24s) |
 | 100 Breast | LCM | **1:49.42** | 2026-04-17 | Lou Pocock Invitational 2026 | 10 | ✅ 1:52.16 (+2.74s) | ❌ 1:35.01 (−14.41s) |
 | 200 Free | LCM | **3:01.18** | 2026-04-18 | Lou Pocock Invitational 2026 | 10 | ✅ 3:04.90 (+3.72s) | ❌ 2:36.36 (−24.82s) |
 | 200 Breast | LCM | **3:42.51** | 2026-05-23 | GHAC May Invitational 2026 | 10 | ✅ 3:59.57 (+17.06s) | ❌ 3:22.94 (−19.57s) |
+| 200 IM | LCM | **3:29.32** | 2026-06-07 | 2026 Western Region LC Championships | 10 | ✅ 3:30.06 (+0.74s) | ❌ 2:57.94 (−31.38s) |
 | 50 Free | SCM | **37.89** | 2026-03-07 | GHAC Winter Invitational 2026 | 10 | ✅ 37.97 (+0.08s) | ❌ 32.16 (−5.73s) |
 | 50 Breast | SCM | **46.97** | 2026-03-07 | GHAC Winter Invitational 2026 | 10 | ✅ 50.82 (+3.85s) | ❌ 43.11 (−3.86s) |
 | 100 Breast | SCM | **1:46.95** | 2026-02-13 | 2026 Western Region SC Championships | 10 | ✅ 1:49.95 (+3.00s) | ❌ 1:33.14 (−13.81s) |
 | 200 IM | SCM | **3:24.10** | 2026-03-07 | GHAC Winter Invitational 2026 | 10 | ✅ 3:25.94 (+1.84s) | ❌ 2:55.23 (−28.87s) |
 | **— NOT YET QUALIFIED —** ||||||||
 | 50 Back | LCM | **46.10** | 2026-04-17 | Lou Pocock Invitational 2026 | 10 | ❌ 45.86 (−0.24s) | ❌ 38.85 (−7.25s) |
-| 50 Breast | LCM | **56.74** | 2025-06-21 | 2025 BAD Outdoor LC Invitational | 9 | ❌ 51.84 (−4.90s) | ❌ 43.91 (−12.83s) |
 | 50 Fly | LCM | **49.17** | 2026-04-11 | GHAC Spring Invitational 2026 | 10 | ❌ 43.03 (−6.14s) | ❌ 36.45 (−12.72s) |
 | 100 Back | LCM | **1:58.94** | 2025-06-20 | 2025 BAD Outdoor LC Invitational | 9 | ❌ 1:37.61 (−21.33s) | ❌ 1:22.69 (−36.25s) |
 | 50 Back | SCM | **47.62** | 2026-02-13 | 2026 Western Region SC Championships | 10 | ❌ 44.96 (−2.66s) | ❌ 38.09 (−9.53s) |
@@ -60,7 +60,18 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 
 _Disclaimer: not a coach's analysis. Pattern-reading from the data above. Verify with her actual coach._
 
-_Updated 2026-05-25. 36 swims across 12 meets. GHAC May Invitational (May 23) finally updated the stale Jun-2025 LC 50 Free PB (a flagged gap), and 200 Breast LC continued its descent (−8.92s vs Pocock)._
+_Updated 2026-06-09. 40 swims across 13 meets. **2026 Western Region LC Championships (WOSA, Jun 6–7)** closed two more long-standing development gaps in one meet — 50 Breast LCM (a 7.22s drop on a year-old stale PB) and her first ever IM swim (200 IM LCM WOSA-qualified on debut)._
+
+### Western Region LC Championships takeaways (WOSA, Jun 6–7)
+
+| Event | WOSA | Prior PB (date) | Δ |
+|---|---|---|---|
+| 🎉 **50 Breast** | **49.52** | 56.74 (Jun 2025, age 9) | **−7.22** PB — **WOSA-qualified**; second stale Jun-2025 LC PB closed in two meets |
+| 🎉 **200 IM** | **3:29.32** | — | first ever — **WOSA-qualified on debut** (+0.74s); closes the "no IM" development gap |
+| 50 Free | 37.74 | 37.49 (May 23) | +0.25 — held WOSA level on her newest PB |
+| 100 Free | 1:22.68 | 1:22.47 (Apr 17) | +0.21 — essentially a repeat; still cohort-leading |
+
+WOSA closed two of the three biggest flagged gaps from prior analyses. The "no IM at any course" gap is gone — and the debut wasn't tentative, it was WOSA-qualified. The 50 Breast LCM stale-PB pattern (set Jun 2025 at age 9, hadn't been raced since) followed the same trajectory as the 50 Free LCM at May Inv: long-delayed and then a huge drop when raced honestly. Only **100 LC Back** and **Fly** remain on the development-gap list.
 
 ### GHAC May Invitational takeaways (LCM, May 23)
 
@@ -135,11 +146,11 @@ The 43.98 (age 9, Jun 2025) PB was flagged in prior analyses as stale. At GHAC M
 
 ### Areas of focus — ranked by likely impact
 
-1. **Race a 100 LC Back** — still no 100 LC Back on record despite multiple meet opportunities. Now the single most conspicuous gap. May Inv only saw 50/100/200 Free + 200 Breast; the 100 Back was again skipped.
-2. **Start racing Butterfly** — zero SC Fly swims; one LC Fly appearance ever. May Inv: still no Fly entered. The IM pathway depends on this.
-3. **Race an IM event** — still no IM in any course/distance. The 200 Breast progression suggests competence; an IM time would crystallize the multi-stroke picture.
+1. **Race a 100 LC Back** — still no 100 LC Back on record despite multiple meet opportunities. The single most conspicuous remaining gap. WOSA included a 200 IM but no 100 Back — meaning the 50m Back leg of her IM is the only Back data we have at LCM.
+2. **Race Butterfly more** — zero SC Fly swims; one LC Fly appearance ever (Apr 11). The 200 IM debut (3:29.32) suggests competent Fly within IM context; a standalone Fly entry would establish a real baseline.
+3. **Race a 100 IM** — given the 200 IM WOSA on debut, a 100 IM would also likely qualify. Adding both IM distances to her repertoire crystallizes the multi-stroke pathway.
 4. **Walls and turns on distance events** — the 200 LC ≈ 200 SC anomaly persists. Streamline and push-off off the wall would help all distance events.
-5. **Protect the breast progression** — 200 LC Breast dropped 11s in 6 weeks. Whatever's working in Breast training, keep it.
+5. **Protect the breast progression** — 50 LC Breast (−7.22s), 200 LC Breast (−11.13s across two meets), 100 SC Breast (textbook progression). Whatever's working in Breast training, keep it.
 
 ### What to watch for
 
@@ -159,14 +170,17 @@ The 43.98 (age 9, Jun 2025) PB was flagged in prior analyses as stale. At GHAC M
 |---|---|---|---|---|
 | **50 Free** | 2025-06-22 | 2025 BAD Outdoor LC Invitational | **43.98** | first |
 |  | 2026-05-23 | GHAC May Invitational 2026 | **37.49** | −6.49 |
+|  | 2026-06-06 | 2026 Western Region LC Championships | 37.74 | +0.25 |
 | **50 Back** | 2025-06-22 | 2025 BAD Outdoor LC Invitational | **55.38** | first |
 |  | 2026-04-17 | Lou Pocock Invitational 2026 | **46.10** | −9.28 |
 | **50 Breast** | 2025-06-21 | 2025 BAD Outdoor LC Invitational | **56.74** | first |
+|  | 2026-06-06 | 2026 Western Region LC Championships | **49.52** | −7.22 |
 | **50 Fly** | 2026-04-11 | GHAC Spring Invitational 2026 | **49.17** | first |
 | **100 Free** | 2025-06-21 | 2025 BAD Outdoor LC Invitational | **1:33.56** | first |
 |  | 2026-04-11 | GHAC Spring Invitational 2026 | **1:23.57** | −9.99 |
 |  | 2026-04-17 | Lou Pocock Invitational 2026 | **1:22.47** | −1.10 |
 |  | 2026-05-23 | GHAC May Invitational 2026 | 1:22.53 | +0.06 |
+|  | 2026-06-07 | 2026 Western Region LC Championships | 1:22.68 | +0.21 |
 | **100 Back** | 2025-06-20 | 2025 BAD Outdoor LC Invitational | **1:58.94** | first |
 | **100 Breast** | 2025-06-20 | 2025 BAD Outdoor LC Invitational | **2:01.30** | first |
 |  | 2026-04-17 | Lou Pocock Invitational 2026 | **1:49.42** | −11.88 |
@@ -174,6 +188,7 @@ The 43.98 (age 9, Jun 2025) PB was flagged in prior analyses as stale. At GHAC M
 | **200 Breast** | 2026-04-11 | GHAC Spring Invitational 2026 | **3:53.64** | first |
 |  | 2026-04-18 | Lou Pocock Invitational 2026 | **3:51.43** | −2.21 |
 |  | 2026-05-23 | GHAC May Invitational 2026 | **3:42.51** | −8.92 |
+| **200 IM** | 2026-06-07 | 2026 Western Region LC Championships | **3:29.32** | first |
 
 ### SCM
 
@@ -241,5 +256,9 @@ The 43.98 (age 9, Jun 2025) PB was flagged in prior analyses as stale. At GHAC M
 | 2026-05-23 | GHAC May Invitational 2026 | LCM | 50 Free | 37.49 |
 | 2026-05-23 | GHAC May Invitational 2026 | LCM | 100 Free | 1:22.53 |
 | 2026-05-23 | GHAC May Invitational 2026 | LCM | 200 Breast | 3:42.51 |
+| 2026-06-06 | 2026 Western Region LC Championships | LCM | 50 Free | 37.74 |
+| 2026-06-06 | 2026 Western Region LC Championships | LCM | 50 Breast | 49.52 |
+| 2026-06-07 | 2026 Western Region LC Championships | LCM | 100 Free | 1:22.68 |
+| 2026-06-07 | 2026 Western Region LC Championships | LCM | 200 IM | 3:29.32 |
 
 <!-- AUTOGEN:BOTTOM:END -->

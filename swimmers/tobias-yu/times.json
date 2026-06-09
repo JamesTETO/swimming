@@ -15,7 +15,8 @@
       1618,
       1622,
       1922,
-      2721
+      2721,
+      2860
     ]
   },
   "results": [
@@ -757,6 +758,76 @@
       "distance": 50,
       "stroke": "C",
       "time": "55.97",
+      "course": "L"
+    },
+    {
+      "rems": 2860,
+      "meet": "2026 Western Region LC Championships",
+      "meet_start": "06042026",
+      "date": "06052026",
+      "distance": 200,
+      "stroke": "A",
+      "time": "162.47",
+      "course": "L"
+    },
+    {
+      "rems": 2860,
+      "meet": "2026 Western Region LC Championships",
+      "meet_start": "06042026",
+      "date": "06052026",
+      "distance": 50,
+      "stroke": "B",
+      "time": "41.24",
+      "course": "L"
+    },
+    {
+      "rems": 2860,
+      "meet": "2026 Western Region LC Championships",
+      "meet_start": "06042026",
+      "date": "06052026",
+      "distance": 100,
+      "stroke": "D",
+      "time": "87.05",
+      "course": "L"
+    },
+    {
+      "rems": 2860,
+      "meet": "2026 Western Region LC Championships",
+      "meet_start": "06042026",
+      "date": "06062026",
+      "distance": 50,
+      "stroke": "A",
+      "time": "35.55",
+      "course": "L"
+    },
+    {
+      "rems": 2860,
+      "meet": "2026 Western Region LC Championships",
+      "meet_start": "06042026",
+      "date": "06062026",
+      "distance": 100,
+      "stroke": "B",
+      "time": "84.92",
+      "course": "L"
+    },
+    {
+      "rems": 2860,
+      "meet": "2026 Western Region LC Championships",
+      "meet_start": "06042026",
+      "date": "06072026",
+      "distance": 200,
+      "stroke": "B",
+      "time": "178.62",
+      "course": "L"
+    },
+    {
+      "rems": 2860,
+      "meet": "2026 Western Region LC Championships",
+      "meet_start": "06042026",
+      "date": "06072026",
+      "distance": 50,
+      "stroke": "D",
+      "time": "35.96",
       "course": "L"
     }
   ]

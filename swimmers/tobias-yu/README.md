@@ -3,28 +3,26 @@
 - **SNC #:** 129243152
 - **DOB:** 2015-04-14
 - **Sex:** M
-- **Swims on record:** 74 across 10 meets
-- **Last refresh:** 2026-05-25 22:32 UTC
+- **Swims on record:** 81 across 11 meets
+- **Last refresh:** 2026-06-09 16:55 UTC
 
 ## Highlights since the last update
 <!-- HIGHLIGHTS:START — Claude-maintained, preserved across refreshes -->
 
-**Meet:** 2026 Dr. Ralph Hicken Invitational (May 1–3)
+**Meet:** 2026 Western Region LC Championships (WOSA, Jun 5–7)
 
-**5 PBs in 9 swims — and his first OAG qualification:**
-- 🎉🎉 **50 Fly LCM 36.63** (−0.20) — **FIRST OAG QUALIFICATION** (cut 36.80, +0.17s under). Was the closest pending cut at Pocock (−0.03s); now broken.
-- 🎉 **100 Free LCM 1:16.30** (−0.41) — fifth straight LC PB
-- 🎉 **200 Free LCM 2:42.33** (−2.45)
-- 🎉 **200 Back LCM 2:58.90** (−5.14) — first sub-3:00 LC 200 Back
-- 🎉 **50 Breast LCM 55.97** (−0.03) — tiny but a PB; still −9.19s from WOSA
-- 50 Free LCM 35.23 (+0.20 vs Pocock 35.03) — minor regression
-- 50 Back LCM 42.03 (+1.92 vs Feb PB) — second LC meet with Back regression vs prior PB
-- 100 Back LCM 1:26.96 (+0.35 vs Jan PB) — Back regression continues
-- 100 Fly LCM 1:28.71 (+0.86 vs Pocock) — only fly regression
+**4 PBs in 7 swims — 50 Fly OAG extended, 100 Back recovered, 200 Back within a heartbeat of OAG:**
+- 🎉 **50 Fly LCM 35.96** (−0.67 vs Hicken) — **extends OAG margin to +0.84s** (was +0.17s on first qualification)
+- 🎉 **100 Back LCM 1:24.92** (−2.04 vs Pocock) — Back regression resolved; now **OAG −0.61s** (closest cut)
+- 🎉 **200 Back LCM 2:58.62** (−0.28 vs Hicken) — **OAG −0.10s** — within a tenth of a second
+- 🎉 **100 Fly LCM 1:27.05** (−0.80) — third PB on 100 Fly LCM
+- 200 Free LCM 2:42.47 (+0.14 vs Hicken)
+- 50 Free LCM 35.55 (+0.52 vs Pocock)
+- 50 Back LCM 41.24 (+1.13 vs PB) — the 50 Back doesn't fully recover
 
-**Qualifying movement:** First OAG cut broken (50 Fly LCM). Closest remaining OAG cuts: **200 Back LCM −0.38s**, **50 Back LCM −0.65s**, **100 Fly SCM −0.47s** — multiple within reach.
+**Qualifying movement:** Two OAG breaks within striking distance after WOSA: **100 Back LCM (−0.61s)** and **200 Back LCM (−0.10s)**. The 200 Back miss by 0.10s is the closest unconverted OAG cut he has. Combined with the existing 50 Fly OAG, his next LC meet could plausibly add 1–2 more provincial qualifications.
 
-_See Analysis for Lou Pocock (Apr 17–19) takeaways and the age-11 transition context._
+**Encouraging:** The Pocock→Hicken Back regression on 100 Back is now resolved (1:28.81 → 1:26.96 → **1:24.92**). The 50 Back is the remaining holdout.
 
 <!-- HIGHLIGHTS:END -->
 
@@ -39,12 +37,12 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 | **— QUALIFIED —** ||||||||
 | 50 Free | LCM | **35.03** | 2026-04-19 | Lou Pocock Invitational 2026 | 11 | ✅ 35.20 (+0.17s) | ❌ 32.87 (−2.16s) |
 | 50 Back | LCM | **40.11** | 2026-02-01 | 2026 Mallards Winter LC Invitational | 10 | ✅ 46.59 (+6.48s) | ❌ 39.46 (−0.65s) |
-| 50 Fly | LCM | **36.63** | 2026-05-01 | 2026 Dr. Ralph Hicken Invitational | 11 | ✅ 39.49 (+2.86s) | ✅ 36.80 (+0.17s) |
+| 50 Fly | LCM | **35.96** | 2026-06-07 | 2026 Western Region LC Championships | 11 | ✅ 39.49 (+3.53s) | ✅ 36.80 (+0.84s) |
 | 100 Free | LCM | **1:16.30** | 2026-05-01 | 2026 Dr. Ralph Hicken Invitational | 11 | ✅ 1:17.84 (+1.54s) | ❌ 1:12.53 (−3.77s) |
-| 100 Back | LCM | **1:26.61** | 2026-01-30 | 2026 Mallards Winter LC Invitational | 10 | ✅ 1:39.52 (+12.91s) | ❌ 1:24.31 (−2.30s) |
-| 100 Fly | LCM | **1:27.85** | 2026-04-19 | Lou Pocock Invitational 2026 | 11 | ✅ 1:30.96 (+3.11s) | ❌ 1:24.76 (−3.09s) |
+| 100 Back | LCM | **1:24.92** | 2026-06-06 | 2026 Western Region LC Championships | 11 | ✅ 1:30.48 (+5.56s) | ❌ 1:24.31 (−0.61s) |
+| 100 Fly | LCM | **1:27.05** | 2026-06-05 | 2026 Western Region LC Championships | 11 | ✅ 1:30.96 (+3.91s) | ❌ 1:24.76 (−2.29s) |
 | 200 Free | LCM | **2:42.33** | 2026-05-03 | 2026 Dr. Ralph Hicken Invitational | 11 | ✅ 2:51.78 (+9.45s) | ❌ 2:40.06 (−2.27s) |
-| 200 Back | LCM | **2:58.90** | 2026-05-01 | 2026 Dr. Ralph Hicken Invitational | 11 | ✅ 3:11.59 (+12.69s) | ❌ 2:58.52 (−0.38s) |
+| 200 Back | LCM | **2:58.62** | 2026-06-07 | 2026 Western Region LC Championships | 11 | ✅ 3:11.59 (+12.97s) | ❌ 2:58.52 (−0.10s) |
 | 400 Free | LCM | **5:44.54** | 2026-04-17 | Lou Pocock Invitational 2026 | 11 | ✅ 5:57.31 (+12.77s) | ❌ 5:32.95 (−11.59s) |
 | 50 Free | SCM | **34.23** | 2026-02-14 | 2026 Western Region SC Championships | 10 | ✅ 38.04 (+3.81s) | ❌ 32.16 (−2.07s) |
 | 50 Back | SCM | **39.51** | 2026-02-13 | 2026 Western Region SC Championships | 10 | ✅ 45.68 (+6.17s) | ❌ 38.61 (−0.90s) |
@@ -70,7 +68,23 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 
 _Disclaimer: not a coach's analysis. Pattern-reading from the data above. Verify with his actual coach._
 
-_Updated 2026-05-25. 74 swims across 10 meets, including the 2026 Dr. Ralph Hicken Invitational (May 1–3) where the 50 Fly OAG cut — predicted as the closest pending qualification — finally broke._
+_Updated 2026-06-09. 81 swims across 11 meets. **2026 Western Region LC Championships (WOSA, Jun 5–7)** extended the 50 Fly OAG, resolved the Back regression on 100, and brought 200 Back to within 0.10s of OAG._
+
+### Western Region LC Championships takeaways (WOSA, Jun 5–7)
+
+| Event | WOSA | Prior PB (date) | Δ |
+|---|---|---|---|
+| 🎉 **50 Fly** | **35.96** | 36.63 (May 1) | **−0.67** PB — **OAG margin extended to +0.84s** (was +0.17s) |
+| 🎉 **100 Back** | **1:24.92** | 1:26.61 (Jan 30) | **−1.69** PB — Back regression resolved; **OAG −0.61s** (closest cut) |
+| 🎉 **200 Back** | **2:58.62** | 2:58.90 (May 1) | **−0.28** PB — **OAG −0.10s** (within a tenth of a second) |
+| 🎉 **100 Fly** | **1:27.05** | 1:27.85 (Apr 19) | **−0.80** PB |
+| 200 Free | 2:42.47 | 2:42.33 (May 3) | +0.14 — essentially repeat |
+| 50 Free | 35.55 | 35.03 (Apr 19) | +0.52 |
+| 50 Back | 41.24 | 40.11 (Feb 1) | +1.13 — 50 Back doesn't fully recover |
+
+**The Back regression flagged after Pocock and Hicken is now resolved on 100 — but not on 50.** Pocock 50 Back 40.84, Hicken 42.03, WOSA 41.24: the regression slowed but didn't reverse. Pocock 100 Back 1:28.81, Hicken 1:26.96, **WOSA 1:24.92**: clear linear recovery and a new PB. The technical issue affected the 50 transiently but not structurally — the 100 has recovered fully and is now the closest pending OAG cut (−0.61s).
+
+**The 200 Back miss is the heartbreaker.** 2:58.62 vs cut 2:58.52 — a tenth of a second short of OAG #2. At this margin, a tapered race-day attempt almost certainly converts it.
 
 ### Hicken takeaways (LCM, May 1–3)
 
@@ -126,8 +140,10 @@ Oct 36.04 → Nov 34.68 → Dec 35.77 → Feb 34.23 → Mar 35.15. Significant i
 **1. Breast across the board.**
 All four of his non-WOSA events are Breast: 50 Breast LCM (−4.54s to WOSA), 50 Breast SCM (−3.89s), 100 Breast SCM (−4.89s), and 200 IM LCM (−6.34s, dragged down by the Breast leg). No 100 Breast LCM swim on record at all. The 50 Breast SCM did drop 3.09s in April, so improvement is starting, but Breast is a multi-second runway in every event. Until this stroke catches up, IM will sit well below his capability.
 
-**2. Back regression now a 2-meet trend.**
-50 Back 40.11 (Feb) → 40.84 at Pocock (+0.73) → **42.03 at Hicken (+1.92 vs PB)**; 100 Back 1:26.61 (Jan) → 1:28.81 at Pocock (+2.20) → **1:26.96 at Hicken (+0.35 vs PB)**. The 100 Back nearly recovered to PB at Hicken, but the 50 Back continues drifting away. Two consecutive LC meets with worse Back times — what looked like Pocock fatigue at first reading now looks like a real technical issue. This was the most progress-resistant area at Pocock and remains so. High-priority coach conversation.
+**2. Back regression — 100 resolved, 50 still drifting.**
+100 Back LCM trajectory: 1:26.61 (Jan) → 1:28.81 at Pocock (+2.20) → 1:26.96 at Hicken (+0.35) → **1:24.92 at WOSA (−1.69 PB)**. Full recovery and a new PB; now the closest OAG cut at −0.61s. The flagged technical issue worked itself out on the 100.
+
+50 Back LCM trajectory: 40.11 (Feb) → 40.84 at Pocock → 42.03 at Hicken → 41.24 at WOSA. Still 1.13s off PB three meets later. The 100 recovered; the 50 hasn't. Different events with different stroke economies — the 50 may need a separate fix (start, breakout, or front-end speed).
 
 **3. 50 Free SCM is inconsistent.**
 Oct 36.04 → Nov 34.68 → Dec 35.77 → Feb 34.23 → Mar 35.15. ~1.5s meet-to-meet variability on a 50 is a lot. PBs are still coming so it's not a concern, but pacing/stroke-count isn't yet grooved.
@@ -137,11 +153,11 @@ Oct 36.04 → Nov 34.68 → Dec 35.77 → Feb 34.23 → Mar 35.15. ~1.5s meet-to
 
 ### Areas of focus — ranked by likely impact
 
-1. **Diagnose the Back regression (50 and 100 LC)** — now a 2-meet trend, not a Pocock blip. Highest priority. Likely start/underwater/turn given the linear progression before Pocock and the consistent reversal after. A clean fix would unlock 50 Back LCM (currently 40.11, OAG cut 39.46 — was 0.65s away pre-regression).
-2. **Next OAG: 200 Back LCM (−0.38s) or 50 Back LCM (−0.65s)** — 200 Back is the closest (cut 2:58.52, PB 2:58.90 — within striking distance at the next LC meet). 50 Back depends on the Back regression being resolved.
-3. **100 Breast LCM debut** — still missing. With 50 Breast LCM now at 55.97, an honest 100 Breast LC time would anchor IM expectations and complete the LCM event grid.
-4. **100 Fly OAG SCM (−0.47s)** — next SCM cycle. The 100 Fly breakthrough has been LCM-led; converting it to SCM is the next test of whether the technical change generalizes.
-5. **Age-11 transition is going well so far** — 50 Fly OAG broken; 200 Back OAG within 0.4s. The age-11 cuts aren't crushing him; the trajectory is intact.
+1. **Convert 200 Back LCM to OAG (−0.10s)** — the closest remaining provincial cut. A tenth of a second is comfortably within race-day variance; one more tapered swim almost certainly qualifies it.
+2. **Convert 100 Back LCM to OAG (−0.61s)** — was −2.30s before WOSA; now closest after 200 Back. Back regression resolved on this event.
+3. **Diagnose the lingering 50 Back regression** — 50 Back hasn't recovered like 100 Back has. The 50 needs a separate fix (front-end speed, start, or breakout). Was −0.65s from OAG pre-regression; now −1.35s.
+4. **100 Breast LCM debut** — still missing. With 50 Breast LCM at 55.97, an honest 100 Breast LC time would anchor IM expectations.
+5. **Age-11 transition continues to look good** — 50 Fly OAG extended (+0.84s margin); two more OAG cuts within 1s; 100 Back resolved. The trajectory is intact.
 
 <!-- ANALYSIS:END -->
 
@@ -157,16 +173,19 @@ Oct 36.04 → Nov 34.68 → Dec 35.77 → Feb 34.23 → Mar 35.15. ~1.5s meet-to
 |  | 2026-01-31 | 2026 Mallards Winter LC Invitational | **36.28** | −2.47 |
 |  | 2026-04-19 | Lou Pocock Invitational 2026 | **35.03** | −1.25 |
 |  | 2026-05-02 | 2026 Dr. Ralph Hicken Invitational | 35.23 | +0.20 |
+|  | 2026-06-06 | 2026 Western Region LC Championships | 35.55 | +0.52 |
 | **50 Back** | 2025-06-13 | Western Region Long Course Championships | **45.96** | first |
 |  | 2026-02-01 | 2026 Mallards Winter LC Invitational | **40.11** | −5.85 |
 |  | 2026-04-17 | Lou Pocock Invitational 2026 | 40.84 | +0.73 |
 |  | 2026-05-02 | 2026 Dr. Ralph Hicken Invitational | 42.03 | +1.92 |
+|  | 2026-06-05 | 2026 Western Region LC Championships | 41.24 | +1.13 |
 | **50 Breast** | 2026-01-30 | 2026 Mallards Winter LC Invitational | **56.00** | first |
 |  | 2026-05-03 | 2026 Dr. Ralph Hicken Invitational | **55.97** | −0.03 |
 | **50 Fly** | 2025-06-14 | Western Region Long Course Championships | **40.93** | first |
 |  | 2026-01-30 | 2026 Mallards Winter LC Invitational | **37.52** | −3.41 |
 |  | 2026-04-18 | Lou Pocock Invitational 2026 | **36.83** | −0.69 |
 |  | 2026-05-01 | 2026 Dr. Ralph Hicken Invitational | **36.63** | −0.20 |
+|  | 2026-06-07 | 2026 Western Region LC Championships | **35.96** | −0.67 |
 | **100 Free** | 2025-06-13 | Western Region Long Course Championships | **1:26.83** | first |
 |  | 2026-02-01 | 2026 Mallards Winter LC Invitational | **1:20.01** | −6.82 |
 |  | 2026-04-17 | Lou Pocock Invitational 2026 | **1:16.71** | −3.30 |
@@ -174,16 +193,20 @@ Oct 36.04 → Nov 34.68 → Dec 35.77 → Feb 34.23 → Mar 35.15. ~1.5s meet-to
 | **100 Back** | 2026-01-30 | 2026 Mallards Winter LC Invitational | **1:26.61** | first |
 |  | 2026-04-18 | Lou Pocock Invitational 2026 | 1:28.81 | +2.20 |
 |  | 2026-05-03 | 2026 Dr. Ralph Hicken Invitational | 1:26.96 | +0.35 |
+|  | 2026-06-06 | 2026 Western Region LC Championships | **1:24.92** | −1.69 |
 | **100 Fly** | 2026-01-31 | 2026 Mallards Winter LC Invitational | **1:37.24** | first |
 |  | 2026-04-19 | Lou Pocock Invitational 2026 | **1:27.85** | −9.39 |
 |  | 2026-05-02 | 2026 Dr. Ralph Hicken Invitational | 1:28.71 | +0.86 |
+|  | 2026-06-05 | 2026 Western Region LC Championships | **1:27.05** | −0.80 |
 | **200 Free** | 2025-06-14 | Western Region Long Course Championships | **3:05.11** | first |
 |  | 2026-01-31 | 2026 Mallards Winter LC Invitational | **2:48.44** | −16.67 |
 |  | 2026-04-18 | Lou Pocock Invitational 2026 | **2:44.78** | −3.66 |
 |  | 2026-05-03 | 2026 Dr. Ralph Hicken Invitational | **2:42.33** | −2.45 |
+|  | 2026-06-05 | 2026 Western Region LC Championships | 2:42.47 | +0.14 |
 | **200 Back** | 2026-02-01 | 2026 Mallards Winter LC Invitational | **3:04.61** | first |
 |  | 2026-04-19 | Lou Pocock Invitational 2026 | **3:04.04** | −0.57 |
 |  | 2026-05-01 | 2026 Dr. Ralph Hicken Invitational | **2:58.90** | −5.14 |
+|  | 2026-06-07 | 2026 Western Region LC Championships | **2:58.62** | −0.28 |
 | **400 Free** | 2026-04-17 | Lou Pocock Invitational 2026 | **5:44.54** | first |
 | **200 IM** | 2025-06-15 | Western Region Long Course Championships | **3:39.92** | first |
 
@@ -313,5 +336,12 @@ Oct 36.04 → Nov 34.68 → Dec 35.77 → Feb 34.23 → Mar 35.15. ~1.5s meet-to
 | 2026-05-03 | 2026 Dr. Ralph Hicken Invitational | LCM | 200 Free | 2:42.33 |
 | 2026-05-03 | 2026 Dr. Ralph Hicken Invitational | LCM | 100 Back | 1:26.96 |
 | 2026-05-03 | 2026 Dr. Ralph Hicken Invitational | LCM | 50 Breast | 55.97 |
+| 2026-06-05 | 2026 Western Region LC Championships | LCM | 200 Free | 2:42.47 |
+| 2026-06-05 | 2026 Western Region LC Championships | LCM | 50 Back | 41.24 |
+| 2026-06-05 | 2026 Western Region LC Championships | LCM | 100 Fly | 1:27.05 |
+| 2026-06-06 | 2026 Western Region LC Championships | LCM | 50 Free | 35.55 |
+| 2026-06-06 | 2026 Western Region LC Championships | LCM | 100 Back | 1:24.92 |
+| 2026-06-07 | 2026 Western Region LC Championships | LCM | 200 Back | 2:58.62 |
+| 2026-06-07 | 2026 Western Region LC Championships | LCM | 50 Fly | 35.96 |
 
 <!-- AUTOGEN:BOTTOM:END -->
