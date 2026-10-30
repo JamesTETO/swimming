@@ -4,22 +4,22 @@
 - **DOB:** 2015-04-14
 - **Sex:** M
 - **Swims on record:** 87 across 12 meets
-- **Last refresh:** 2026-10-30 13:06 UTC
+- **Last refresh:** 2026-10-30 13:40 UTC
 
 ## Highlights since the last update
 <!-- HIGHLIGHTS:START — Claude-maintained, preserved across refreshes -->
 
 **Meet:** 2026 MMST Dash 4 Cash (SCM, Oct 17–18) — first meet of the 2026-27 season, four months after WOSA LC
 
-**5 PBs in 6 swims — two new OAG cuts take him from one provincial event to three:**
-- 🎉 **100 Back SCM 1:21.77** (−2.71 vs GHAC Winter) — **new OAG, +0.79s under** the 1:22.56 cut
-- 🎉 **50 Fly SCM 35.40** (−0.99 vs GMAC Spring) — **new OAG, +0.64s under** the 36.04 cut; 50 Fly is now OAG on both courses
-- 🎉 **100 Free SCM 1:13.81** (−2.71 vs GHAC Winter) — OAG −2.99s
-- 🎉 **50 Free SCM 33.77** (−0.46 vs WOSA SC) — first sub-34; OAG −1.61s
+**5 PBs in 6 swims — a new OAG cut in 50 Fly SCM takes him from one provincial event to two:**
+- 🎉 **100 Back SCM 1:21.77** (−2.71 vs GHAC Winter) — **OAG −0.74s** (cut 1:21.03), now his closest provincial miss
+- 🎉 **50 Fly SCM 35.40** (−0.99 vs GMAC Spring) — **new OAG, +0.21s under** the 35.61 cut; 50 Fly is now OAG on both courses
+- 🎉 **100 Free SCM 1:13.81** (−2.71 vs GHAC Winter) — OAG −3.68s
+- 🎉 **50 Free SCM 33.77** (−0.46 vs WOSA SC) — first sub-34; OAG −1.98s
 - 🎉 **100 IM SCM 1:27.29** (−7.49 vs Nov 2025)
-- 100 Fly SCM 1:23.88 (+0.38 vs GHAC Winter) — the only non-PB; his 1:23.50 PB stays 0.47s off OAG
+- 100 Fly SCM 1:23.88 (+0.38 vs GHAC Winter) — the only non-PB; his 1:23.50 PB is 2.29s off OAG
 
-**Qualifying movement:** OAG count goes **1 → 3** (50 Fly LCM, 50 Fly SCM, 100 Back SCM). 100 Free SCM now clears the age-11 WOSA cut by 2.50s; the old 1:16.52, set at age 10, would have missed it by 0.21s. Next SC conversions: **100 Fly (−0.47s)** and **50 Back (−0.90s)**.
+**Qualifying movement:** OAG count goes **1 → 2** (50 Fly LCM, 50 Fly SCM) against the 2026-27 OAG cuts, which are faster across the board; both 50 Fly margins are thin (+0.21s SCM, +0.36s LCM). 100 Free SCM now clears the age-11 WOSA cut by 2.50s; the old 1:16.52, set at age 10, would have missed it by 0.21s. Next conversion: **100 Back SCM (−0.74s)**. Nothing else on either course is within 1.9s.
 
 **Encouraging:** No summer racing, an October meet, and all six events beat his times from this same meet a year ago — by 2.27s (50 Free) up to 18.91s (100 Fly). The 100 Back confirms the spring Back dip is over. The 100 Fly is the one event that hasn't moved since March.
 
@@ -29,34 +29,34 @@
 
 ## Personal bests & qualifying status
 
-Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming Association) Regional Championship. _Provincial_ = OAG (Ontario Age Groups) or equivalent. Check mark = PB is at or under the cut; cross = needs to drop more time. _No standard_ = event has no age-group cut (e.g. 25s, or above the published age bands).
+Compared to **WOSA 2025-2026** (2026-27 regional cuts not yet published) and **OAG 2026-2027** standards. _Regional_ = WOSA (Western Ontario Swimming Association) Regional Championship. _Provincial_ = OAG (Ontario Age Groups) or equivalent. Check mark = PB is at or under the cut; cross = needs to drop more time. _No standard_ = event has no age-group cut (e.g. 25s, or above the published age bands).
 
 | Event | Course | PB | Date | Meet | Age | Regional (WOSA) | Provincial (OAG) |
 |---|---|---|---|---|---|---|---|
 | **— QUALIFIED —** ||||||||
-| 50 Free | LCM | **35.03** | 2026-04-19 | Lou Pocock Invitational 2026 | 11 | ✅ 35.20 (+0.17s) | ❌ 32.87 (−2.16s) |
-| 50 Back | LCM | **40.11** | 2026-02-01 | 2026 Mallards Winter LC Invitational | 10 | ✅ 46.59 (+6.48s) | ❌ 39.46 (−0.65s) |
-| 50 Fly | LCM | **35.96** | 2026-06-07 | 2026 Western Region LC Championships | 11 | ✅ 39.49 (+3.53s) | ✅ 36.80 (+0.84s) |
-| 100 Free | LCM | **1:16.30** | 2026-05-01 | 2026 Dr. Ralph Hicken Invitational | 11 | ✅ 1:17.84 (+1.54s) | ❌ 1:12.53 (−3.77s) |
-| 100 Back | LCM | **1:24.92** | 2026-06-06 | 2026 Western Region LC Championships | 11 | ✅ 1:30.48 (+5.56s) | ❌ 1:24.31 (−0.61s) |
-| 100 Fly | LCM | **1:27.05** | 2026-06-05 | 2026 Western Region LC Championships | 11 | ✅ 1:30.96 (+3.91s) | ❌ 1:24.76 (−2.29s) |
-| 200 Free | LCM | **2:42.33** | 2026-05-03 | 2026 Dr. Ralph Hicken Invitational | 11 | ✅ 2:51.78 (+9.45s) | ❌ 2:40.06 (−2.27s) |
-| 200 Back | LCM | **2:58.62** | 2026-06-07 | 2026 Western Region LC Championships | 11 | ✅ 3:11.59 (+12.97s) | ❌ 2:58.52 (−0.10s) |
-| 400 Free | LCM | **5:44.54** | 2026-04-17 | Lou Pocock Invitational 2026 | 11 | ✅ 5:57.31 (+12.77s) | ❌ 5:32.95 (−11.59s) |
-| 50 Free | SCM | **33.77** | 2026-10-17 | 2026 MMST Dash 4 Cash | 11 | ✅ 34.58 (+0.81s) | ❌ 32.16 (−1.61s) |
-| 50 Back | SCM | **39.51** | 2026-02-13 | 2026 Western Region SC Championships | 10 | ✅ 45.68 (+6.17s) | ❌ 38.61 (−0.90s) |
-| 50 Fly | SCM | **35.40** | 2026-10-18 | 2026 MMST Dash 4 Cash | 11 | ✅ 38.72 (+3.32s) | ✅ 36.04 (+0.64s) |
-| 100 Free | SCM | **1:13.81** | 2026-10-18 | 2026 MMST Dash 4 Cash | 11 | ✅ 1:16.31 (+2.50s) | ❌ 1:10.82 (−2.99s) |
-| 100 Back | SCM | **1:21.77** | 2026-10-17 | 2026 MMST Dash 4 Cash | 11 | ✅ 1:28.70 (+6.93s) | ✅ 1:22.56 (+0.79s) |
-| 100 Fly | SCM | **1:23.50** | 2026-03-07 | GHAC Winter Invitational 2026 | 10 | ✅ 1:38.10 (+14.60s) | ❌ 1:23.03 (−0.47s) |
-| 200 Free | SCM | **2:40.02** | 2026-02-13 | 2026 Western Region SC Championships | 10 | ✅ 3:05.25 (+25.23s) | ❌ 2:37.02 (−3.00s) |
-| 200 Back | SCM | **2:58.58** | 2026-02-15 | 2026 Western Region SC Championships | 10 | ✅ 3:26.61 (+28.03s) | ❌ 2:54.94 (−3.64s) |
-| 400 Free | SCM | **5:52.83** | 2025-12-05 | GMAC Dash For Cash Dec 5-7, 2025 | 10 | ✅ 6:25.34 (+32.51s) | ❌ 5:26.12 (−26.71s) |
+| 50 Free | LCM | **35.03** | 2026-04-19 | Lou Pocock Invitational 2026 | 11 | ✅ 35.20 (+0.17s) | ❌ 32.42 (−2.61s) |
+| 50 Back | LCM | **40.11** | 2026-02-01 | 2026 Mallards Winter LC Invitational | 10 | ✅ 46.59 (+6.48s) | ❌ 38.19 (−1.92s) |
+| 50 Fly | LCM | **35.96** | 2026-06-07 | 2026 Western Region LC Championships | 11 | ✅ 39.49 (+3.53s) | ✅ 36.32 (+0.36s) |
+| 100 Free | LCM | **1:16.30** | 2026-05-01 | 2026 Dr. Ralph Hicken Invitational | 11 | ✅ 1:17.84 (+1.54s) | ❌ 1:11.53 (−4.77s) |
+| 100 Back | LCM | **1:24.92** | 2026-06-06 | 2026 Western Region LC Championships | 11 | ✅ 1:30.48 (+5.56s) | ❌ 1:22.65 (−2.27s) |
+| 100 Fly | LCM | **1:27.05** | 2026-06-05 | 2026 Western Region LC Championships | 11 | ✅ 1:30.96 (+3.91s) | ❌ 1:22.83 (−4.22s) |
+| 200 Free | LCM | **2:42.33** | 2026-05-03 | 2026 Dr. Ralph Hicken Invitational | 11 | ✅ 2:51.78 (+9.45s) | ❌ 2:35.05 (−7.28s) |
+| 200 Back | LCM | **2:58.62** | 2026-06-07 | 2026 Western Region LC Championships | 11 | ✅ 3:11.59 (+12.97s) | ❌ 2:55.92 (−2.70s) |
+| 400 Free | LCM | **5:44.54** | 2026-04-17 | Lou Pocock Invitational 2026 | 11 | ✅ 5:57.31 (+12.77s) | ❌ 5:27.26 (−17.28s) |
+| 50 Free | SCM | **33.77** | 2026-10-17 | 2026 MMST Dash 4 Cash | 11 | ✅ 34.58 (+0.81s) | ❌ 31.79 (−1.98s) |
+| 50 Back | SCM | **39.51** | 2026-02-13 | 2026 Western Region SC Championships | 10 | ✅ 45.68 (+6.17s) | ❌ 37.44 (−2.07s) |
+| 50 Fly | SCM | **35.40** | 2026-10-18 | 2026 MMST Dash 4 Cash | 11 | ✅ 38.72 (+3.32s) | ✅ 35.61 (+0.21s) |
+| 100 Free | SCM | **1:13.81** | 2026-10-18 | 2026 MMST Dash 4 Cash | 11 | ✅ 1:16.31 (+2.50s) | ❌ 1:10.13 (−3.68s) |
+| 100 Back | SCM | **1:21.77** | 2026-10-17 | 2026 MMST Dash 4 Cash | 11 | ✅ 1:28.70 (+6.93s) | ❌ 1:21.03 (−0.74s) |
+| 100 Fly | SCM | **1:23.50** | 2026-03-07 | GHAC Winter Invitational 2026 | 10 | ✅ 1:38.10 (+14.60s) | ❌ 1:21.21 (−2.29s) |
+| 200 Free | SCM | **2:40.02** | 2026-02-13 | 2026 Western Region SC Championships | 10 | ✅ 3:05.25 (+25.23s) | ❌ 2:32.01 (−8.01s) |
+| 200 Back | SCM | **2:58.58** | 2026-02-15 | 2026 Western Region SC Championships | 10 | ✅ 3:26.61 (+28.03s) | ❌ 2:52.47 (−6.11s) |
+| 400 Free | SCM | **5:52.83** | 2025-12-05 | GMAC Dash For Cash Dec 5-7, 2025 | 10 | ✅ 6:25.34 (+32.51s) | ❌ 5:20.85 (−31.98s) |
 | **— NOT YET QUALIFIED —** ||||||||
-| 50 Breast | LCM | **55.97** | 2026-05-03 | 2026 Dr. Ralph Hicken Invitational | 11 | ❌ 46.78 (−9.19s) | ❌ 43.59 (−12.38s) |
-| 200 IM | LCM | **3:39.92** | 2025-06-15 | Western Region Long Course Champions | 10 | ❌ 3:33.58 (−6.34s) | ❌ 3:00.92 (−39.00s) |
-| 50 Breast | SCM | **54.35** | 2026-04-12 | GMAC Spring Skills and Thrills | 10 | ❌ 50.46 (−3.89s) | ❌ 42.66 (−11.69s) |
-| 100 Breast | SCM | **1:55.40** | 2026-03-08 | GHAC Winter Invitational 2026 | 10 | ❌ 1:50.51 (−4.89s) | ❌ 1:33.60 (−21.80s) |
+| 50 Breast | LCM | **55.97** | 2026-05-03 | 2026 Dr. Ralph Hicken Invitational | 11 | ❌ 46.78 (−9.19s) | ❌ 42.53 (−13.44s) |
+| 200 IM | LCM | **3:39.92** | 2025-06-15 | Western Region Long Course Champions | 10 | ❌ 3:33.58 (−6.34s) | ❌ 2:57.24 (−42.68s) |
+| 50 Breast | SCM | **54.35** | 2026-04-12 | GMAC Spring Skills and Thrills | 10 | ❌ 50.46 (−3.89s) | ❌ 41.70 (−12.65s) |
+| 100 Breast | SCM | **1:55.40** | 2026-03-08 | GHAC Winter Invitational 2026 | 10 | ❌ 1:50.51 (−4.89s) | ❌ 1:31.11 (−24.29s) |
 | **— NO STANDARD —** ||||||||
 | 100 IM | SCM | **1:27.29** | 2026-10-18 | 2026 MMST Dash 4 Cash | 11 | — | — |
 
@@ -67,38 +67,38 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 
 _Disclaimer: not a coach's analysis. Pattern-reading from the data above. Verify with his actual coach._
 
-_Updated 2026-10-30. 87 swims across 12 meets. **2026 MMST Dash 4 Cash (SCM, Oct 17–18)** opened the 2026-27 season with 5 PBs in 6 swims and two new OAG cuts._
+_Updated 2026-10-30. 87 swims across 12 meets. **2026 MMST Dash 4 Cash (SCM, Oct 17–18)** opened the 2026-27 season with 5 PBs in 6 swims and one new OAG cut (50 Fly SCM). OAG gaps below are against the 2026-27 cuts._
 
 ### Dash 4 Cash takeaways (SCM, Oct 17–18)
 
 | Event | Dash 4 Cash | Prior PB (date) | Δ | Same meet 2025 |
 |---|---|---|---|---|
-| 🎉 **100 Back** | **1:21.77** | 1:24.48 (Mar 6) | **−2.71** PB — **OAG +0.79s** | 1:29.20 |
-| 🎉 **50 Fly** | **35.40** | 36.39 (Apr 12) | **−0.99** PB — **OAG +0.64s** | 40.76 |
+| 🎉 **100 Back** | **1:21.77** | 1:24.48 (Mar 6) | **−2.71** PB — OAG −0.74s | 1:29.20 |
+| 🎉 **50 Fly** | **35.40** | 36.39 (Apr 12) | **−0.99** PB — **OAG +0.21s** | 40.76 |
 | 🎉 **100 Free** | **1:13.81** | 1:16.52 (Mar 8) | **−2.71** PB | 1:24.92 |
 | 🎉 **50 Free** | **33.77** | 34.23 (Feb 14) | **−0.46** PB | 36.04 |
 | 🎉 **100 IM** | **1:27.29** | 1:34.78 (Nov 2025) | **−7.49** PB | 1:37.85 |
 | 100 Fly | 1:23.88 | 1:23.50 (Mar 7) | +0.38 | 1:42.79 |
 
-His first meet since June reads well: all six events beat his times from this meet a year ago, by 2.27s (50 Free) to 18.91s (100 Fly). He is the only swimmer in the tracked GHAC group with an OAG cut, and he now has three.
+His first meet since June reads well: all six events beat his times from this meet a year ago, by 2.27s (50 Free) to 18.91s (100 Fly). He is the only swimmer in the tracked GHAC group with an OAG cut, and he now has two.
 
 ### What the data says he's good at
 
 | Event | Evidence |
 |---|---|
-| **50 Fly** | OAG on both courses: SCM 35.40 (+0.64s), LCM 35.96 (+0.84s) |
+| **50 Fly** | OAG on both courses: SCM 35.40 (+0.21s), LCM 35.96 (+0.36s) |
 | **100 Back** | SCM PBs 1:29.20 → 1:26.92 → 1:24.93 → 1:24.48 → **1:21.77**; LCM PB 1:24.92 in June |
 | **100 Free** | Every LCM swim a PB (4 for 4); SCM PB in 4 of 5 |
 | **Breadth** | 18 of 23 event/course combinations WOSA-qualified |
 
 ### Profile and identity
 
-All three OAG cuts are Back or Fly, and so are his five closest misses: 200 Back LCM (−0.10s), 100 Fly SCM (−0.47s), 100 Back LCM (−0.61s), 50 Back LCM (−0.65s), 50 Back SCM (−0.90s). Free is the steady base — every Free event is WOSA-qualified, but OAG gaps run 1.61–3.77s from 50 to 200. He now reads as a **Back/Fly swimmer on a strong Free base**, with Breast the one stroke below WOSA.
+Both OAG cuts are 50 Fly, and four of his five closest misses are Back: 100 Back SCM (−0.74s), 50 Back LCM (−1.92s), 50 Back SCM (−2.07s), 100 Back LCM (−2.27s); the fifth is 50 Free SCM (−1.98s). Free is the steady base — every Free event is WOSA-qualified, but OAG gaps run 1.98–8.01s from 50 to 200. He now reads as a **Back/Fly swimmer on a strong Free base**, with Breast the one stroke below WOSA.
 
 ### Structural observations
 
-**1. The SC season is his 11&U window.**
-He turned 11 in April, before the summer, so no band changed between June and October. He turns 12 on 14 April 2027, which moves him into a separate age-12 OAG band; its 2025-26 cuts are about 7s faster on 100 Back LC and 11s on 200 Back LC. The whole SC season sits inside 11&U; the LC near-misses may not. Worth asking his coach which age applies at the LC championship.
+**1. The new OAG cuts moved the goalposts, but the age band holds.**
+He turned 11 in April, before the summer, so no band changed between June and October. The 2027 OAG (LCM) runs Mar 4–7, before he turns 12 on 14 April 2027, so the 11&U cuts should apply all season. Those 2026-27 cuts are faster: without a swim, the 200 Back LCM miss went from 0.10s to 2.70s and the 100 Back LCM miss from 0.61s to 2.27s.
 
 **2. Several SC PBs are stale age-10 times.**
 50 Back, 200 Free, 200 Back and 400 Free SCM were all set Dec–Mar at age 10. The 200 Back SCM (2:58.58) is level with his LC time (2:58.62), though his 100 Back now runs 3.15s faster SC than LC. The table's ✅ on 400 Free SCM is against the 10&U cut; against the 2025-26 age-11 WOSA cut (5:50.31), 5:52.83 is 2.52s short.
@@ -116,10 +116,10 @@ LCM 40.11 (Feb) → 40.84 → 42.03 → 41.24, and no 50 Back on either course s
 
 ### Areas of focus — ranked by likely impact
 
-1. **Convert 100 Fly SCM to OAG (−0.47s; −0.85s on Oct 17)** — the closest SC cut. The target is the second 50.
-2. **Convert 50 Back SCM to OAG (−0.90s)** — the PB is from February; a race also shows whether the LC 50 Back drift is gone.
-3. **Fresh 200 Back SCM (OAG 2:54.94, −3.64s)** — an age-10 PB that hasn't caught up with his 100 Back.
-4. **Refresh 400 Free and 200 Free SCM** — 400 Free needs 2.52s for the 2025-26 age-11 WOSA cut; 200 Free is 3.00s off OAG.
+1. **Convert 100 Back SCM to OAG (−0.74s, cut 1:21.03)** — the closest cut on either course, in the event that just dropped 2.71s.
+2. **Convert 50 Back to OAG (SCM −2.07s, LCM −1.92s)** — the SC PB is from February; a race also shows whether the LC 50 Back drift is gone.
+3. **100 Fly SCM (OAG −2.29s; −2.67s on Oct 17)** — the target is the second 50.
+4. **Refresh the stale SCM PBs** — 400 Free needs 2.52s for the 2025-26 age-11 WOSA cut; the 200 Back SCM (OAG −6.11s) is an age-10 time that hasn't caught up with his 100 Back.
 5. **Breast volume** — 50/100 Breast SC and a 100 Breast LC debut.
 
 <!-- ANALYSIS:END -->

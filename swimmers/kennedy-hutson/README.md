@@ -4,7 +4,7 @@
 - **DOB:** 2015-11-08
 - **Sex:** F
 - **Swims on record:** 75 across 13 meets
-- **Last refresh:** 2026-10-30 13:06 UTC
+- **Last refresh:** 2026-10-30 13:40 UTC
 
 ## Highlights since the last update
 <!-- HIGHLIGHTS:START — Claude-maintained, preserved across refreshes -->
@@ -13,13 +13,13 @@
 
 **6 PBs in 6 swims:**
 - 🎉 **100 Free SCM 1:16.76** (−7.45) — **now WOSA-qualified** (was 0.61s short); 2.77s inside her LC PB
-- 🎉 **200 IM SCM 3:14.11** (−5.73) — OAG −18.88s; still 8.91s behind her LC 3:05.20
-- 🎉 **50 Fly SCM 36.78** (−5.32) — **OAG −1.04s**, her closest short-course provincial gap
-- 🎉 **50 Breast SCM 46.33** (−2.52) — first sub-47 in either course; OAG −3.22s
+- 🎉 **200 IM SCM 3:14.11** (−5.73) — OAG −21.72s; still 8.91s behind her LC 3:05.20
+- 🎉 **50 Fly SCM 36.78** (−5.32) — **OAG −2.70s**, still her closest short-course provincial gap
+- 🎉 **50 Breast SCM 46.33** (−2.52) — first sub-47 in either course; OAG −5.04s
 - 🎉 **50 Free SCM 34.64** (−1.76) — first sub-35 in either course; SC now faster than LC (35.03)
-- 🎉 **50 Back SCM 40.29** (−0.93) — OAG −2.20s; still 0.56s slower than her LC PB (39.73)
+- 🎉 **50 Back SCM 40.29** (−0.93) — OAG −3.73s; still 0.56s slower than her LC PB (39.73)
 
-**Qualifying movement:** One new WOSA cut (100 Free SCM). 21 of 23 events with a standard are now WOSA-qualified; only 400 and 800 Free SCM remain. No OAG yet. Closest OAG cuts: 50 Back LCM (−0.88s), 50 Fly SCM (−1.04s), 50 Fly LCM (−1.09s).
+**Qualifying movement:** One new WOSA cut (100 Free SCM). 21 of 23 events with a standard are now WOSA-qualified; only 400 and 800 Free SCM remain. No OAG yet; against the faster 2026-27 OAG cuts the closest are 50 Back LCM (−2.44s), 50 Fly SCM (−2.70s), 50 Fly LCM (−2.77s).
 
 No meets on record since June, and she came back faster in everything she swam: the spring LC gains carried straight into the short pool, and four of the six times beat her LC PBs. The exceptions are the two swims with a backstroke wall (50 Back, 200 IM), which is the new thing to watch this season. She turns 11 on Nov 8, which moves her into a faster WOSA band (see Analysis).
 
@@ -29,32 +29,32 @@ No meets on record since June, and she came back faster in everything she swam: 
 
 ## Personal bests & qualifying status
 
-Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming Association) Regional Championship. _Provincial_ = OAG (Ontario Age Groups) or equivalent. Check mark = PB is at or under the cut; cross = needs to drop more time. _No standard_ = event has no age-group cut (e.g. 25s, or above the published age bands).
+Compared to **WOSA 2025-2026** (2026-27 regional cuts not yet published) and **OAG 2026-2027** standards. _Regional_ = WOSA (Western Ontario Swimming Association) Regional Championship. _Provincial_ = OAG (Ontario Age Groups) or equivalent. Check mark = PB is at or under the cut; cross = needs to drop more time. _No standard_ = event has no age-group cut (e.g. 25s, or above the published age bands).
 
 | Event | Course | PB | Date | Meet | Age | Regional (WOSA) | Provincial (OAG) |
 |---|---|---|---|---|---|---|---|
 | **— QUALIFIED —** ||||||||
-| 50 Free | LCM | **35.03** | 2026-06-06 | 2026 Western Region LC Championships | 10 | ✅ 38.80 (+3.77s) | ❌ 32.81 (−2.22s) |
-| 50 Back | LCM | **39.73** | 2026-05-23 | GHAC May Invitational 2026 | 10 | ✅ 45.86 (+6.13s) | ❌ 38.85 (−0.88s) |
-| 50 Breast | LCM | **48.56** | 2026-06-06 | 2026 Western Region LC Championships | 10 | ✅ 51.84 (+3.28s) | ❌ 43.91 (−4.65s) |
-| 50 Fly | LCM | **37.54** | 2026-05-22 | GHAC May Invitational 2026 | 10 | ✅ 43.03 (+5.49s) | ❌ 36.45 (−1.09s) |
-| 100 Free | LCM | **1:19.53** | 2026-05-23 | GHAC May Invitational 2026 | 10 | ✅ 1:25.41 (+5.88s) | ❌ 1:12.23 (−7.30s) |
-| 100 Back | LCM | **1:26.16** | 2026-06-06 | 2026 Western Region LC Championships | 10 | ✅ 1:37.61 (+11.45s) | ❌ 1:22.69 (−3.47s) |
-| 100 Breast | LCM | **1:43.14** | 2026-06-05 | 2026 Western Region LC Championships | 10 | ✅ 1:52.16 (+9.02s) | ❌ 1:35.01 (−8.13s) |
-| 200 Free | LCM | **2:50.86** | 2026-06-05 | 2026 Western Region LC Championships | 10 | ✅ 3:04.90 (+14.04s) | ❌ 2:36.36 (−14.50s) |
-| 200 Breast | LCM | **3:35.49** | 2026-05-23 | GHAC May Invitational 2026 | 10 | ✅ 3:59.57 (+24.08s) | ❌ 3:22.94 (−12.55s) |
-| 200 IM | LCM | **3:05.20** | 2026-06-07 | 2026 Western Region LC Championships | 10 | ✅ 3:30.06 (+24.86s) | ❌ 2:57.94 (−7.26s) |
-| 50 Free | SCM | **34.64** | 2026-10-24 | GHAC Fall Invitational 2026 | 10 | ✅ 37.97 (+3.33s) | ❌ 32.16 (−2.48s) |
-| 50 Back | SCM | **40.29** | 2026-10-25 | GHAC Fall Invitational 2026 | 10 | ✅ 44.96 (+4.67s) | ❌ 38.09 (−2.20s) |
-| 50 Breast | SCM | **46.33** | 2026-10-25 | GHAC Fall Invitational 2026 | 10 | ✅ 50.82 (+4.49s) | ❌ 43.11 (−3.22s) |
-| 50 Fly | SCM | **36.78** | 2026-10-24 | GHAC Fall Invitational 2026 | 10 | ✅ 42.18 (+5.40s) | ❌ 35.74 (−1.04s) |
-| 100 Free | SCM | **1:16.76** | 2026-10-24 | GHAC Fall Invitational 2026 | 10 | ✅ 1:23.60 (+6.84s) | ❌ 1:10.82 (−5.94s) |
-| 100 Back | SCM | **1:30.09** | 2026-03-06 | GHAC Winter Invitational 2026 | 10 | ✅ 1:35.70 (+5.61s) | ❌ 1:21.07 (−9.02s) |
-| 100 Breast | SCM | **1:45.69** | 2026-03-08 | GHAC Winter Invitational 2026 | 10 | ✅ 1:49.95 (+4.26s) | ❌ 1:33.14 (−12.55s) |
-| 200 Free | SCM | **2:59.79** | 2026-03-06 | GHAC Winter Invitational 2026 | 10 | ✅ 3:00.97 (+1.18s) | ❌ 2:33.30 (−26.49s) |
-| 200 Back | SCM | **3:15.65** | 2026-03-07 | GHAC Winter Invitational 2026 | 10 | ✅ 3:24.99 (+9.34s) | ❌ 2:53.65 (−22.00s) |
-| 200 Breast | SCM | **3:42.91** | 2025-12-05 | 2025 Border City Invitational | 10 | ✅ 3:54.87 (+11.96s) | ❌ 3:18.83 (−24.08s) |
-| 200 IM | SCM | **3:14.11** | 2026-10-25 | GHAC Fall Invitational 2026 | 10 | ✅ 3:25.94 (+11.83s) | ❌ 2:55.23 (−18.88s) |
+| 50 Free | LCM | **35.03** | 2026-06-06 | 2026 Western Region LC Championships | 10 | ✅ 38.80 (+3.77s) | ❌ 32.03 (−3.00s) |
+| 50 Back | LCM | **39.73** | 2026-05-23 | GHAC May Invitational 2026 | 10 | ✅ 45.86 (+6.13s) | ❌ 37.29 (−2.44s) |
+| 50 Breast | LCM | **48.56** | 2026-06-06 | 2026 Western Region LC Championships | 10 | ✅ 51.84 (+3.28s) | ❌ 42.12 (−6.44s) |
+| 50 Fly | LCM | **37.54** | 2026-05-22 | GHAC May Invitational 2026 | 10 | ✅ 43.03 (+5.49s) | ❌ 34.77 (−2.77s) |
+| 100 Free | LCM | **1:19.53** | 2026-05-23 | GHAC May Invitational 2026 | 10 | ✅ 1:25.41 (+5.88s) | ❌ 1:10.58 (−8.95s) |
+| 100 Back | LCM | **1:26.16** | 2026-06-06 | 2026 Western Region LC Championships | 10 | ✅ 1:37.61 (+11.45s) | ❌ 1:20.96 (−5.20s) |
+| 100 Breast | LCM | **1:43.14** | 2026-06-05 | 2026 Western Region LC Championships | 10 | ✅ 1:52.16 (+9.02s) | ❌ 1:32.54 (−10.60s) |
+| 200 Free | LCM | **2:50.86** | 2026-06-05 | 2026 Western Region LC Championships | 10 | ✅ 3:04.90 (+14.04s) | ❌ 2:34.82 (−16.04s) |
+| 200 Breast | LCM | **3:35.49** | 2026-05-23 | GHAC May Invitational 2026 | 10 | ✅ 3:59.57 (+24.08s) | ❌ 3:18.32 (−17.17s) |
+| 200 IM | LCM | **3:05.20** | 2026-06-07 | 2026 Western Region LC Championships | 10 | ✅ 3:30.06 (+24.86s) | ❌ 2:55.84 (−9.36s) |
+| 50 Free | SCM | **34.64** | 2026-10-24 | GHAC Fall Invitational 2026 | 10 | ✅ 37.97 (+3.33s) | ❌ 31.41 (−3.23s) |
+| 50 Back | SCM | **40.29** | 2026-10-25 | GHAC Fall Invitational 2026 | 10 | ✅ 44.96 (+4.67s) | ❌ 36.56 (−3.73s) |
+| 50 Breast | SCM | **46.33** | 2026-10-25 | GHAC Fall Invitational 2026 | 10 | ✅ 50.82 (+4.49s) | ❌ 41.29 (−5.04s) |
+| 50 Fly | SCM | **36.78** | 2026-10-24 | GHAC Fall Invitational 2026 | 10 | ✅ 42.18 (+5.40s) | ❌ 34.08 (−2.70s) |
+| 100 Free | SCM | **1:16.76** | 2026-10-24 | GHAC Fall Invitational 2026 | 10 | ✅ 1:23.60 (+6.84s) | ❌ 1:09.20 (−7.56s) |
+| 100 Back | SCM | **1:30.09** | 2026-03-06 | GHAC Winter Invitational 2026 | 10 | ✅ 1:35.70 (+5.61s) | ❌ 1:19.38 (−10.71s) |
+| 100 Breast | SCM | **1:45.69** | 2026-03-08 | GHAC Winter Invitational 2026 | 10 | ✅ 1:49.95 (+4.26s) | ❌ 1:30.72 (−14.97s) |
+| 200 Free | SCM | **2:59.79** | 2026-03-06 | GHAC Winter Invitational 2026 | 10 | ✅ 3:00.97 (+1.18s) | ❌ 2:31.78 (−28.01s) |
+| 200 Back | SCM | **3:15.65** | 2026-03-07 | GHAC Winter Invitational 2026 | 10 | ✅ 3:24.99 (+9.34s) | ❌ 2:49.06 (−26.59s) |
+| 200 Breast | SCM | **3:42.91** | 2025-12-05 | 2025 Border City Invitational | 10 | ✅ 3:54.87 (+11.96s) | ❌ 3:14.43 (−28.48s) |
+| 200 IM | SCM | **3:14.11** | 2026-10-25 | GHAC Fall Invitational 2026 | 10 | ✅ 3:25.94 (+11.83s) | ❌ 2:52.39 (−21.72s) |
 | **— NOT YET QUALIFIED —** ||||||||
 | 400 Free | SCM | **6:30.45** | 2026-04-22 | GHAC In-House Time Trial 800 Free | 10 | ❌ 6:20.40 (−10.05s) | ❌ 5:22.24 (−68.21s) |
 | 800 Free | SCM | **13:08.54** | 2026-04-22 | GHAC In-House Time Trial 800 Free | 10 | ❌ 13:06.80 (−1.74s) | ❌ 11:06.51 (−122.03s) |
@@ -72,7 +72,7 @@ _Updated 2026-10-30. 75 swims across 13 meets. **GHAC Fall Invitational 2026 (SC
 
 ### Profile
 
-An all-stroke sprinter whose 50s are closing in on provincial level, with a 200 base that so far shows up more in long course than short. Her six closest OAG gaps are all 50s, every one inside 2.5s: 50 Back LCM (−0.88s), 50 Fly SCM (−1.04s), 50 Fly LCM (−1.09s), 50 Back SCM (−2.20s), 50 Free LCM (−2.22s), 50 Free SCM (−2.48s). Year on year at the same meet: 36.45 → 34.64 in the 50 Free, 45.35 → 40.29 in the 50 Back.
+An all-stroke sprinter whose 50s are closing in on provincial level, with a 200 base that so far shows up more in long course than short. Her six closest 2026-27 OAG gaps are all 50s, every one inside 3.75s: 50 Back LCM (−2.44s), 50 Fly SCM (−2.70s), 50 Fly LCM (−2.77s), 50 Free LCM (−3.00s), 50 Free SCM (−3.23s), 50 Back SCM (−3.73s). Year on year at the same meet: 36.45 → 34.64 in the 50 Free, 45.35 → 40.29 in the 50 Back.
 
 ### Strengths
 
@@ -104,15 +104,15 @@ The 50 Free is the useful precedent: inverted last season (SC 36.40 vs LC 36.23 
 
 ### The age-up
 
-She turns 11 on Nov 8. The table grades each swim by her age on the day, and standards.json gives 11-year-olds their own, much faster WOSA band; her OAG band (11&U) does not change. On the 2025-26 SC cuts, the only ones on file, 50 Back (40.88) and 50 Fly (38.35) are already cleared, 50 Free (34.52) and 50 Breast (46.20) are 0.12s and 0.13s away, 100 Free (1:16.00) 0.76s, 200 IM (3:07.22) 6.89s, and 400/800 Free (5:45.82 / 11:55.28) move well out of reach. Expect new PBs to show ❌ where the old ones showed ✅, even as she keeps dropping time.
+She turns 11 on Nov 8. The table grades each swim by her age on the day, and standards.json gives 11-year-olds their own, much faster WOSA band; her OAG band (11&U) does not change. On WOSA's 2025-26 SC cuts (2026-27 not yet published), 50 Back (40.88) and 50 Fly (38.35) are already cleared, 50 Free (34.52) and 50 Breast (46.20) are 0.12s and 0.13s away, 100 Free (1:16.00) 0.76s, 200 IM (3:07.22) 6.89s, and 400/800 Free (5:45.82 / 11:55.28) move well out of reach. Expect new PBs to show ❌ where the old ones showed ✅, even as she keeps dropping time.
 
 ### Areas of focus — ranked by likely impact
 
-1. **First OAG: 50 Fly SCM (36.78 → 35.74, −1.04s).** Closest SC provincial gap, fastest-moving event, and unaffected by the birthday. The overall closest, 50 Back LCM (−0.88s), waits for the spring LC season.
+1. **50 Free and 50 Breast SC at the 11-band line.** 0.12s and 0.13s from the 2025-26 WOSA 11 cuts; OAG gaps −3.23s and −5.04s.
 2. **Re-race 100 Back SC.** LC 1:26.16 is already 3.93s inside the SC PB, so a first SC swim this season is likely to land well under 1:30 and test the 2025-26 WOSA 11 cut (1:27.00). Same logic for 200 Free and 100 Breast.
-3. **Backstroke walls.** Targets: 50 Back SC under 39.73, and 200 IM SC under 3:05.20, which would also clear the 2025-26 WOSA 11 cut (3:07.22).
-4. **50 Free and 50 Breast SC at the 11-band line.** 0.12s and 0.13s from the 2025-26 WOSA 11 cuts; OAG gaps −2.48s and −3.22s.
-5. **100 Fly debut.** The biggest blank in her grid. 2025-26 SC cuts: WOSA 11 1:27.58, OAG 1:21.61.
+3. **First OAG: 50 Fly SCM (36.78 → 34.08, −2.70s).** Still her closest SC provincial gap and unaffected by the birthday, but now a season target for the 2027 OAG (Mar 4–7), not a next-meet one. The overall closest, 50 Back LCM (−2.44s), needs a long-course swim; her LC racing on record starts in April.
+4. **Backstroke walls.** Targets: 50 Back SC under 39.73, and 200 IM SC under 3:05.20, which would also clear the 2025-26 WOSA 11 cut (3:07.22).
+5. **100 Fly debut.** The biggest blank in her grid. SC cuts: WOSA 11 1:27.58 (2025-26), OAG 1:19.14 (2026-27).
 
 <!-- ANALYSIS:END -->
 
