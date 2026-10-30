@@ -3,21 +3,23 @@
 - **SNC #:** 131013006
 - **DOB:** 2015-09-29
 - **Sex:** F
-- **Swims on record:** 40 across 13 meets
-- **Last refresh:** 2026-06-18 18:26 UTC
+- **Swims on record:** 44 across 14 meets
+- **Last refresh:** 2026-10-30 13:06 UTC
 
 ## Highlights since the last update
 <!-- HIGHLIGHTS:START — Claude-maintained, preserved across refreshes -->
 
-**Meet:** 2026 Western Region LC Championships (WOSA, Jun 6–7)
+**Meet:** GHAC Fall Invitational 2026 (SCM, Oct 24): first meet of the 2026-27 season and her first at age 11
 
-**2 PBs + 1 event debut in 4 swims:**
-- 🎉 **50 Breast LCM 49.52** (−7.22 vs stale Jun 2025) — **WOSA-qualified** (+2.32s over cut). Second long-standing LCM gap closed in two consecutive meets (50 Free at May, 50 Breast at WOSA).
-- 🎉 **200 IM LCM 3:29.32** (first ever) — **WOSA-qualified on debut** (+0.74s over cut). Closes the "no IM" development gap flagged in prior analyses.
-- 50 Free LCM 37.74 (+0.25 vs May PB) — held WOSA level
-- 100 Free LCM 1:22.68 (+0.21 vs Pocock PB) — essentially a repeat
+**2 PBs + 2 SCM debuts in 4 swims, nothing slower:**
+- 🎉 **100 Breast SCM 1:41.00** (−5.95 vs 1:46.95, Feb 2026): fourth straight PB in the event and the biggest drop yet. 1.04s off the age-11 WOSA cut (1:39.96).
+- 🎉 **50 Free SCM 36.46** (−1.43 vs 37.89, Mar 2026): four PBs in four SC swims. 1.94s off the age-11 WOSA cut.
+- **100 Free SCM 1:18.83** (first SC swim): 3.64s under her LC PB 1:22.47, which had stalled at 1:22.47–1:22.68 over three LC meets.
+- **50 Fly SCM 48.09** (first SC Fly; LC 49.17 in Apr): her first Fly since April, but still slower than her 50 SC Breast (46.97).
 
-**Qualifying movement:** First ever IM swim and it's WOSA on debut. Gap-closing continues. **Remaining development gaps:** still no 100 LC Back, still no Fly entries at WOSA.
+**Qualifying movement:** Two PBs, and still fewer WOSA ticks, because of the age-up rather than the swimming. She turned 11 on Sep 29, so the table now measures these swims against the 11 cuts, which are much tighter (50 Free SCM 37.97 → 34.52, 100 Breast SCM 1:49.95 → 1:39.96). Her old 50 Free and 100 Breast SCM PBs were WOSA times at 10&U. The faster new ones now sit under "Not yet qualified". Her OAG band (11&U) didn't change, and there the 100 SC Breast gap shrank from 13.81s to 7.86s.
+
+A clean return after four and a half months off the record. Breast is still the event closest to a cut. Back is still missing: no Back entry at all since April.
 
 <!-- HIGHLIGHTS:END -->
 
@@ -37,15 +39,17 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 | 200 Free | LCM | **3:01.18** | 2026-04-18 | Lou Pocock Invitational 2026 | 10 | ✅ 3:04.90 (+3.72s) | ❌ 2:36.36 (−24.82s) |
 | 200 Breast | LCM | **3:42.51** | 2026-05-23 | GHAC May Invitational 2026 | 10 | ✅ 3:59.57 (+17.06s) | ❌ 3:22.94 (−19.57s) |
 | 200 IM | LCM | **3:29.32** | 2026-06-07 | 2026 Western Region LC Championships | 10 | ✅ 3:30.06 (+0.74s) | ❌ 2:57.94 (−31.38s) |
-| 50 Free | SCM | **37.89** | 2026-03-07 | GHAC Winter Invitational 2026 | 10 | ✅ 37.97 (+0.08s) | ❌ 32.16 (−5.73s) |
 | 50 Breast | SCM | **46.97** | 2026-03-07 | GHAC Winter Invitational 2026 | 10 | ✅ 50.82 (+3.85s) | ❌ 43.11 (−3.86s) |
-| 100 Breast | SCM | **1:46.95** | 2026-02-13 | 2026 Western Region SC Championships | 10 | ✅ 1:49.95 (+3.00s) | ❌ 1:33.14 (−13.81s) |
 | 200 IM | SCM | **3:24.10** | 2026-03-07 | GHAC Winter Invitational 2026 | 10 | ✅ 3:25.94 (+1.84s) | ❌ 2:55.23 (−28.87s) |
 | **— NOT YET QUALIFIED —** ||||||||
 | 50 Back | LCM | **46.10** | 2026-04-17 | Lou Pocock Invitational 2026 | 10 | ❌ 45.86 (−0.24s) | ❌ 38.85 (−7.25s) |
 | 50 Fly | LCM | **49.17** | 2026-04-11 | GHAC Spring Invitational 2026 | 10 | ❌ 43.03 (−6.14s) | ❌ 36.45 (−12.72s) |
 | 100 Back | LCM | **1:58.94** | 2025-06-20 | 2025 BAD Outdoor LC Invitational | 9 | ❌ 1:37.61 (−21.33s) | ❌ 1:22.69 (−36.25s) |
+| 50 Free | SCM | **36.46** | 2026-10-24 | GHAC Fall Invitational 2026 | 11 | ❌ 34.52 (−1.94s) | ❌ 32.16 (−4.30s) |
 | 50 Back | SCM | **47.62** | 2026-02-13 | 2026 Western Region SC Championships | 10 | ❌ 44.96 (−2.66s) | ❌ 38.09 (−9.53s) |
+| 50 Fly | SCM | **48.09** | 2026-10-24 | GHAC Fall Invitational 2026 | 11 | ❌ 38.35 (−9.74s) | ❌ 35.74 (−12.35s) |
+| 100 Free | SCM | **1:18.83** | 2026-10-24 | GHAC Fall Invitational 2026 | 11 | ❌ 1:16.00 (−2.83s) | ❌ 1:10.82 (−8.01s) |
+| 100 Breast | SCM | **1:41.00** | 2026-10-24 | GHAC Fall Invitational 2026 | 11 | ❌ 1:39.96 (−1.04s) | ❌ 1:33.14 (−7.86s) |
 | 200 Free | SCM | **3:01.06** | 2026-02-13 | 2026 Western Region SC Championships | 10 | ❌ 3:00.97 (−0.09s) | ❌ 2:33.30 (−27.76s) |
 | 400 Free | SCM | **6:30.06** | 2026-04-22 | GHAC In-House Time Trial 800 Free | 10 | ❌ 6:20.40 (−9.66s) | ❌ 5:22.24 (−67.82s) |
 | 800 Free | SCM | **13:07.64** | 2026-04-22 | GHAC In-House Time Trial 800 Free | 10 | ❌ 13:06.80 (−0.84s) | ❌ 11:06.51 (−121.13s) |
@@ -60,103 +64,56 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 
 _Disclaimer: not a coach's analysis. Pattern-reading from the data above. Verify with her actual coach._
 
-_Updated 2026-06-09. 40 swims across 13 meets. **2026 Western Region LC Championships (WOSA, Jun 6–7)** closed two more long-standing development gaps in one meet — 50 Breast LCM (a 7.22s drop on a year-old stale PB) and her first ever IM swim (200 IM LCM WOSA-qualified on debut)._
+_Updated 2026-10-30. 44 swims across 14 meets. **GHAC Fall Invitational (SCM, Oct 24)** opened her 2026-27 season, her first at age 11: two PBs and two SC debuts in four swims, led by a 5.95s drop in 100 SC Breast._
 
-### Western Region LC Championships takeaways (WOSA, Jun 6–7)
+### Fall Invitational in context
 
-| Event | WOSA | Prior PB (date) | Δ |
-|---|---|---|---|
-| 🎉 **50 Breast** | **49.52** | 56.74 (Jun 2025, age 9) | **−7.22** PB — **WOSA-qualified**; second stale Jun-2025 LC PB closed in two meets |
-| 🎉 **200 IM** | **3:29.32** | — | first ever — **WOSA-qualified on debut** (+0.74s); closes the "no IM" development gap |
-| 50 Free | 37.74 | 37.49 (May 23) | +0.25 — held WOSA level on her newest PB |
-| 100 Free | 1:22.68 | 1:22.47 (Apr 17) | +0.21 — essentially a repeat; still cohort-leading |
+Four and a half months off the record, and nothing went backwards. Her 100 Breast SCM dropped to 1:41.00 (−5.95) and her 50 Free SCM to 36.46 (−1.43). Her LC 100 Free had sat at 1:22.47–1:22.68 across three meets from April to June, and the 1:18.83 SC debut shows that plateau was not a ceiling. All the tracked GHAC girls in her cohort entered the same 50 Free / 100 Free / 50 Fly core, so the Fly reads as a group entry, not a sign that she is being widened on her own.
 
-WOSA closed two of the three biggest flagged gaps from prior analyses. The "no IM at any course" gap is gone — and the debut wasn't tentative, it was WOSA-qualified. The 50 Breast LCM stale-PB pattern (set Jun 2025 at age 9, hadn't been raced since) followed the same trajectory as the 50 Free LCM at May Inv: long-delayed and then a huge drop when raced honestly. Only **100 LC Back** and **Fly** remain on the development-gap list.
+### The age-up resets the qualifying math
 
-### GHAC May Invitational takeaways (LCM, May 23)
+She turned 11 on Sep 29. From age 11 the WOSA cuts in standards.json are set for a single age, and they are far tighter than the 10&U ones. Her old 50 Free (37.89) and 100 Breast (1:46.95) SCM PBs were WOSA times, and the faster new ones are not. Every ✅ left on the table is an age-10 swim against a 10&U cut, and on the 2025-26 numbers none would clear the 11 cut. The 2026-27 cuts aren't loaded, so treat the 11-band gaps as indicative. Her OAG band stays 11&U, which makes OAG the like-for-like comparison: the 100 SC Breast gap went from −13.81 to −7.86 and the 50 SC Free gap from −5.73 to −4.30.
 
-| Event | May | Prior PB (date) | Δ |
-|---|---|---|---|
-| 🎉 **50 Free** | **37.49** | 43.98 (Jun 2025, age 9) | **−6.49** PB — closes a 10-month-stale PB; **now WOSA-qualified** |
-| 🎉 **200 Breast** | **3:42.51** | 3:51.43 (Apr 18) | **−8.92** PB — second consecutive big drop on this event |
-| 100 Free | 1:22.53 | 1:22.47 (Apr 17) | +0.06 — essentially repeat; still cohort-leading |
+Her strokes, by percentage off the 11-band SCM cut:
 
-The 50 Free update was the single longest-standing gap in her record — flagged in prior analyses as "almost certainly stale," now corrected. The 200 Breast progression (3:53.64 Apr 11 → 3:51.43 Apr 18 → 3:42.51 May 23 = 11.13s in 6 weeks) is the most concentrated improvement on any of her events.
-
-### Lou Pocock takeaways (LCM, Apr 17–18)
-
-| Event | Pocock | Prior PB (date) | Δ |
-|---|---|---|---|
-| **50 Back** | 46.10 | 55.38 (Jun 2025, stale) | **−9.28** PB |
-| **100 Free** | 1:22.47 | 1:23.57 (Apr 11) | **−1.10** PB |
-| **100 Breast** | 1:49.42 | 2:01.30 (Jun 2025, stale) | **−11.88** PB |
-| **200 Free** | 3:01.18 | — | first (only ~0.12s slower than SC 200 Free) |
-| **200 Breast** | 3:51.43 | 3:53.64 (Apr 11) | **−2.21** PB |
-
-100 LC Breast 1:49.42 validates the trajectory — she was at or ahead of any reasonable projection, confirming breast remains her identity stroke.
-
-### Post-Pocock distance TT (SCM, Apr 22)
-
-Four days after Pocock, a GHAC in-house time trial produced the single biggest distance jump in her record:
-
-| Event | Apr 22 | Prior PB (Jan 17) | Δ |
-|---|---|---|---|
-| **400 SC Free** | **6:30.06** | 6:55.98 | **−25.92** (3 months) |
-| **800 SC Free** | **13:07.64** | 14:07.69 | **−60.05** — one full minute |
-| 200 SC Free | 3:11.30 | 3:01.06 (Feb 13) | +10.24 — done as part of the distance set, not a race |
-
-Two 25+ second drops on 400 and a full minute off 800 isn't technique refinement — it's the aerobic engine maturing. Her 800 Free is now under 13:10 at age 10, and the 400 at 6:30 puts her well past WOSA (cut 6:20.40) with room to spare. This is a step-change, not incremental.
-
-### What the data says she's good at
-
-| Event | Evidence |
-|---|---|
-| **100 SC Breast** | Textbook progression: 1:51.69 → 1:49.41 → 1:46.95 (−4.74s across 3 meets, never regressed) |
-| **100 LC Breast** | 1:49.42 at Pocock — only 2.47s slower than her SC PB (well below typical SC→LC gap) |
-| **50 SC Breast** | 46.97 — fastest in the GHAC 10&U girls cohort |
-| **100 LC Free** | 1:22.47 at Pocock — fastest in the GHAC 10&U girls cohort |
-| **400 SC Free** | 7:17.99 → 6:55.98 → **6:30.06** — 47.93s across 6 months; now WOSA-qualified |
-| **800 SC Free** | 14:07.69 → **13:07.64** — a full minute off in 3 months, sub-13:10 at age 10 |
-| **Distance commitment** | Raced 400, 800, and 1500 Free SCM — the clearest distance commitment in the GHAC 10&U group |
+| Stroke | Best SCM evidence | Off 11 cut |
+|---|---|---|
+| Breast | 100 1:41.00 · 50 46.97 | 1.0% · 1.7% |
+| Sprint Free | 100 1:18.83 · 50 36.46 | 3.7% · 5.6% |
+| IM / 200+ Free | 200 IM 3:24.10 · 400 6:30.06 · 800 13:07.64 | 9–13% |
+| Back | 50 47.62 | 16.5% |
+| Fly | 50 48.09 | 25.4% |
 
 ### Profile and identity
 
-After Pocock, Arina's profile is clearly **Breast / distance Free specialist**. She holds the fastest 100 LC Free in the GHAC 10&U girls cohort (1:22.47) and has the strongest Breast progression in the group, with the fastest 50 SC Breast (46.97) and a 100 LC Breast (1:49.42) right at the top.
+**A Breast specialist with a distance-Free engine.** Breast is the stroke closest to the standard in both courses. Her 1:41.00 is the fastest 100 SC Breast among the GHAC girls in her cohort, and the next best is 1:45.69. She is no longer cohort-leading in LC Breast, 100 LC Free or 50 SC Breast. She still holds the cohort's fastest 400, 800 and 1500 SC Free, though the 400 and 800 leads are under a second. Neither of those was a WOSA time, even at 10&U: the 400 missed by 9.66s and the 800 by 0.84s. Earlier versions of this page wrongly said the 400 qualified.
 
-Breast-to-free ratio: LC 100 Breast/100 Free = 1:49.42/1:22.47 = **1.34**. A ratio above 1.30 typically signals a swimmer whose Breast is stronger relative to Free than average — this confirms Breast is her identity stroke, not just a secondary event. Her profile is "Breast/distance Free specialist" — a clear identity that should inform event selection going forward.
+### Strengths
 
-The distance profile is unusually developed for age 10 and now updated: 400 SC Free **6:30.06** (WOSA-qualified), 800 SC Free **13:07.64**, 1500 SC Free 26:32.22. The Apr 22 TT added a 25.92s drop on 400 and a full 60.05s drop on 800 in a single session. Most 10&U girls haven't raced those distances at all — Arina is now posting competitive numbers in them. The "distance Free" half of her profile just got materially stronger.
+- **100 SC Breast:** 1:51.69 → 1:49.41 → 1:46.95 → 1:41.00 is four PBs in four swims and −10.69s in under a year, with the latest drop the biggest.
+- **50 SC Free:** 39.87 → 39.35 → 37.89 → 36.46, never slower.
+- **LC Breast:** the 50, 100 and 200 were all WOSA times at 10&U.
+- **Aerobic base:** across last season the 400 SC Free fell 47.93s and the 800 fell 60.05s.
 
-### Gaps that remain
+### Gaps
 
-**1. Back record still thin — 50 only, no 100.**
-50 LC Back 46.10 at Pocock is a big update from the stale 2025 time. But no 100 LC Back was entered at Pocock, and there is no SC 100 Back on record at all. GHAC teammates entered both 50 and 100 Back at the same meet. Back at the 100 distance is being avoided, and that's increasingly conspicuous.
+1. **Back has disappeared.** She hasn't entered Back since April, and the 100 Back (1:58.94) is from age 9. GHAC teammates raced Back at this meet.
+2. **Fly is by far the weakest stroke.** Her 48.09 is slower than her 50 SC Breast. The cohort's fastest 50 SC Fly at this meet was under 37.
+3. **No 200-plus SC racing this fall.** She has never raced a 200 Breast in SC.
+4. **The LC ≈ SC 200 Free may be stale data rather than slow turns.** The 100 SC Free is 3.64s faster than her LC time, so her walls work at 100m. The SC 200 (3:01.06) is from February.
 
-**2. Butterfly still nearly non-existent.**
-Pocock entries: 50 Back, 100 Free, 100 Breast, 200 Free, 200 Breast — no Fly. The one-off 50 LC Fly (49.17) at GHAC Spring is still her only fly swim. With a Breast-focused profile, Fly is the missing piece for any future IM development.
+### Areas of focus, ranked by likely impact
 
-**3. No IM at any course.**
-Neither 100 IM nor 200 IM on LC. No IM at Pocock. For a swimmer with distance Free and Breast as her two strongest events, IM is the natural next step — and it remains empty.
-
-**4. The 200 Free LC ≈ 200 Free SC is unusual.**
-SCM should be noticeably faster over 200m because of 3 extra turns providing push-off velocity. LC 3:01.18 ≈ SC 3:01.06 (essentially identical) suggests she's not extracting meaningful speed from SCM walls. This is common at age 10 but worth a technical look — streamline and push-off off turns would close the gap on all distance events.
-
-**5. 50 Free LCM stale gap — now closed.**
-The 43.98 (age 9, Jun 2025) PB was flagged in prior analyses as stale. At GHAC May Inv she dropped it to **37.49** — a 6.49s drop that brought the event to WOSA. As predicted, the current PB was nowhere near her real ability. Gap closed.
-
-### Areas of focus — ranked by likely impact
-
-1. **Race a 100 LC Back** — still no 100 LC Back on record despite multiple meet opportunities. The single most conspicuous remaining gap. WOSA included a 200 IM but no 100 Back — meaning the 50m Back leg of her IM is the only Back data we have at LCM.
-2. **Race Butterfly more** — zero SC Fly swims; one LC Fly appearance ever (Apr 11). The 200 IM debut (3:29.32) suggests competent Fly within IM context; a standalone Fly entry would establish a real baseline.
-3. **Race a 100 IM** — given the 200 IM WOSA on debut, a 100 IM would also likely qualify. Adding both IM distances to her repertoire crystallizes the multi-stroke pathway.
-4. **Walls and turns on distance events** — the 200 LC ≈ 200 SC anomaly persists. Streamline and push-off off the wall would help all distance events.
-5. **Protect the breast progression** — 50 LC Breast (−7.22s), 200 LC Breast (−11.13s across two meets), 100 SC Breast (textbook progression). Whatever's working in Breast training, keep it.
+1. **100 SC Breast under 1:39.96.** It is 1.04s away and is her likeliest first age-11 WOSA time.
+2. **Re-race the 50 SC Breast and debut the 200 SC Breast.** The 50 is 0.77s off 46.20, on a time from March. For the 200, her LC 3:42.51 is the reference, against an 11 cut of 3:33.52.
+3. **Put Back on the meet card.** Any 100 Back replaces a 16-month-old time, and the 50 SC Back needs 6.74s.
+4. **Sprint Free.** The 50 is 1.94s off 34.52 and the 100 is 2.83s off 1:16.00.
+5. **Fly volume.** A second 50 Fly will show whether 48.09 is a baseline. The first milestone is a 50 Fly faster than her 50 Breast.
 
 ### What to watch for
 
-- **GHAC Summer LC Inv (May 22–24):** Does she finally enter 100 LC Back? Any Fly event? A 100 LC IM would be diagnostic.
-- **Next SCM cycle (Oct 2026+):** 100 SC Back and SC Fly appearing = coaching staff widening her; not appearing = confirmed specialist profile.
-- **Distance LC:** 400 LC / 800 LC at Summer Inv — she has the SC base. Those times would be informative.
+- **2026-27 standards:** re-check every gap above once they are loaded.
+- **Winter SC meets:** do Back, a 200 IM and a 200 SC Breast appear? If not, her coaches are narrowing her to Breast and Free.
 
 <!-- ANALYSIS:END -->
 
@@ -197,11 +154,15 @@ The 43.98 (age 9, Jun 2025) PB was flagged in prior analyses as stale. At GHAC M
 | **50 Free** | 2025-11-09 | BAC Short Course Fall Invitational | **39.87** | first |
 |  | 2025-12-13 | GHAC Super Fun Development Meet #1 | **39.35** | −0.52 |
 |  | 2026-03-07 | GHAC Winter Invitational 2026 | **37.89** | −1.46 |
+|  | 2026-10-24 | GHAC Fall Invitational 2026 | **36.46** | −1.43 |
 | **50 Back** | 2026-02-13 | 2026 Western Region SC Championships | **47.62** | first |
 | **50 Breast** | 2026-03-07 | GHAC Winter Invitational 2026 | **46.97** | first |
+| **50 Fly** | 2026-10-24 | GHAC Fall Invitational 2026 | **48.09** | first |
+| **100 Free** | 2026-10-24 | GHAC Fall Invitational 2026 | **1:18.83** | first |
 | **100 Breast** | 2025-11-09 | BAC Short Course Fall Invitational | **1:51.69** | first |
 |  | 2025-12-13 | GHAC Super Fun Development Meet #1 | **1:49.41** | −2.28 |
 |  | 2026-02-13 | 2026 Western Region SC Championships | **1:46.95** | −2.46 |
+|  | 2026-10-24 | GHAC Fall Invitational 2026 | **1:41.00** | −5.95 |
 | **200 Free** | 2026-01-30 | GHAC SC Last Chance Qualifier 2026 | **3:06.84** | first |
 |  | 2026-02-13 | 2026 Western Region SC Championships | **3:01.06** | −5.78 |
 |  | 2026-04-22 | GHAC In-House Time Trial 800 Free | 3:11.30 | +10.24 |
@@ -260,5 +221,9 @@ The 43.98 (age 9, Jun 2025) PB was flagged in prior analyses as stale. At GHAC M
 | 2026-06-06 | 2026 Western Region LC Championships | LCM | 50 Breast | 49.52 |
 | 2026-06-07 | 2026 Western Region LC Championships | LCM | 100 Free | 1:22.68 |
 | 2026-06-07 | 2026 Western Region LC Championships | LCM | 200 IM | 3:29.32 |
+| 2026-10-24 | GHAC Fall Invitational 2026 | SCM | 50 Free | 36.46 |
+| 2026-10-24 | GHAC Fall Invitational 2026 | SCM | 100 Free | 1:18.83 |
+| 2026-10-24 | GHAC Fall Invitational 2026 | SCM | 100 Breast | 1:41.00 |
+| 2026-10-24 | GHAC Fall Invitational 2026 | SCM | 50 Fly | 48.09 |
 
 <!-- AUTOGEN:BOTTOM:END -->
